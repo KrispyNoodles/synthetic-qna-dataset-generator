@@ -3,7 +3,6 @@ import sys
 import json
 from typing import List
 from tqdm import tqdm
-import subprocess
 import argparse
 
 from config import llm, document_intelligence_client
