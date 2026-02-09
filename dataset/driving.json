@@ -1,0 +1,459 @@
+{
+  "dataset": [
+    {
+      "question": "What is the purpose of advising candidates to check the TP and LTA websites for the latest updates in the Final Theory of Driving handbook?",
+      "answer": "The purpose of advising candidates to check the TP and LTA websites for the latest updates is to ensure that they have access to the most current and accurate information, as regulations and guidelines may change after the publication of the handbook."
+    },
+    {
+      "question": "What is the purpose of warning indicators and meters in a vehicle?",
+      "answer": "The purpose of warning indicators and meters in a vehicle is to provide the driver with real-time information about the vehicle's status and alert them to potential issues, such as engine overheating, low fuel, or system malfunctions, thereby ensuring safe and efficient operation."
+    },
+    {
+      "question": "What is the purpose of emphasizing patience, consideration, and courtesy in safe driving?",
+      "answer": "Emphasizing patience, consideration, and courtesy in safe driving is important because these qualities help ensure the safety of all road users. A driver who possesses these traits is more likely to anticipate and appropriately react to the actions of others, communicate effectively on the road, and create a safer and more pleasant environment for both drivers and pedestrians."
+    },
+    {
+      "question": "Why is it essential for learner drivers to cultivate the right qualities and techniques during the initial stages of learning?",
+      "answer": "It is essential for learner drivers to cultivate the right qualities and techniques during the initial stages of learning because repeated mistakes can become habits that are difficult to correct, and proper driving habits are necessary to prevent accidents and ensure safety on the road."
+    },
+    {
+      "question": "What is the purpose of engaging competent instructors and adopting a planned approach in driver training?",
+      "answer": "The purpose of engaging competent instructors and adopting a planned approach in driver training is to ensure that each lesson is systematically phased to suit the individual learner's development, allowing them to acquire the necessary skills and attitude effectively and safely, as the number of training hours needed varies from person to person."
+    },
+    {
+      "question": "Why is it required to hold the steering wheel with both hands whenever the vehicle is in motion?",
+      "answer": "Holding the steering wheel with both hands whenever the vehicle is in motion is required to maintain maximum control, which is fundamental to the balance and stability of the vehicle. This ensures the driver can respond effectively to changes in road conditions, such as cornering, braking, or driving on uneven surfaces, thereby enhancing safety."
+    },
+    {
+      "question": "Why is it important not to move your body or cross your hands when turning the steering wheel?",
+      "answer": "It is important not to move your body or cross your hands when turning the steering wheel because maintaining proper hand position and body posture ensures better control of the vehicle, allows for smoother and safer steering adjustments, and helps the driver respond more effectively to varying road conditions and bends."
+    },
+    {
+      "question": "How does steering response differ when reversing compared to driving forward, and why does this affect learner drivers?",
+      "answer": "When reversing, the steering wheel response is less sensitive than when driving forward, which often causes learner drivers to oversteer. This happens because the vehicle's dynamics change in reverse, making it harder to judge the amount of steering needed."
+    },
+    {
+      "question": "What is the purpose of the gear positions indicated on the gear lever knob?",
+      "answer": "The purpose of the gear positions indicated on the gear lever knob is to show the driver the correct position and direction in which to shift the lever in order to engage the desired gear, ensuring the vehicle operates efficiently under different driving conditions such as starting, climbing slopes, negotiating corners, or cruising."
+    },
+    {
+      "question": "Why is the clutch pedal required to be fully depressed when changing gears in a vehicle?",
+      "answer": "The clutch pedal must be fully depressed when changing gears to disengage the engine from the transmission, allowing the gear lever to move smoothly without causing damage to the gears or transmission components. This prevents grinding and ensures a safe and efficient gear change."
+    },
+    {
+      "question": "What is the purpose of the handbrake and under what conditions should it be used?",
+      "answer": "The purpose of the handbrake, also known as the parking brake, is to prevent the vehicle from rolling forward or backward when it is parked or stationary, such as at a traffic light junction. It operates only on the two rear wheels and should not be used to stop the vehicle while driving, except in an emergency situation, for example, if the foot brake fails."
+    },
+    {
+      "question": "What is the purpose of depressing the footbrake pedal when applying or releasing the handbrake, and why is it required?",
+      "answer": "Depressing the footbrake pedal when applying or releasing the handbrake is required to prevent the vehicle from moving unintentionally during the process. It ensures that the vehicle remains stationary, providing safety and control while the handbrake is being engaged or disengaged."
+    },
+    {
+      "question": "What is the purpose of using the ball of the right foot to depress the brake pedal while keeping the heel off the floor board?",
+      "answer": "Using the ball of the right foot to depress the brake pedal while keeping the heel off the floor board allows for better control and responsiveness when applying the brakes, ensuring a safer and more effective braking action."
+    },
+    {
+      "question": "What is the purpose of using the intermittent braking technique in an emergency?",
+      "answer": "The purpose of using the intermittent braking technique in an emergency is to provide adequate warning to motorists following behind, prevent the wheels from locking (which can cause skidding), and to help dry the brakes after passing through water by repeatedly pumping the brake until normal braking effect returns."
+    },
+    {
+      "question": "What is the purpose of using the ball of your left foot to press the clutch pedal and not letting your heel touch the floor board when operating a manual transmission vehicle?",
+      "answer": "Using the ball of your left foot to press the clutch pedal and keeping your heel off the floor board allows for smoother and more precise control of the clutch. This technique helps prevent abrupt engagement or disengagement, reducing wear on the clutch components and ensuring safer, more controlled gear changes."
+    },
+    {
+      "question": "Why is it important for drivers to understand how to use the controls of an automatic transmission, especially when driving down a long steep hill?",
+      "answer": "It is important for drivers to understand how to use the controls of an automatic transmission because, in situations like driving down a long steep hill, the automatic system may not select a low enough gear to provide adequate engine braking. Knowing how to manually select a lower gear allows the driver to maintain better control of the vehicle and reduce reliance on the brakes, enhancing safety."
+    },
+    {
+      "question": "How does heavy acceleration affect gear changes in automatic transmissions, and why?",
+      "answer": "Heavy acceleration delays upward gear changes in automatic transmissions because the system is sensitive to both speed and engine load. When the accelerator is pressed hard, the load on the engine increases, similar to climbing a steep hill, so the transmission holds lower gears longer to provide more power until the car builds up sufficient speed."
+    },
+    {
+      "question": "What is the purpose of the 'L' (Lock-up or Hold) position in an automatic transmission?",
+      "answer": "The purpose of the 'L' (Lock-up or Hold) position in an automatic transmission is to keep the vehicle in a lower gear, overriding the automatic gear changes. This is useful in situations such as heavy and slow traffic, where frequent gear changes are undesirable, or when descending a long steep hill, where engine braking is needed. By selecting 'L', the driver can maintain better control over the vehicle's speed and engine performance."
+    },
+    {
+      "question": "What is the purpose of the 'kick-down' feature in automatic transmissions, and how does it affect vehicle acceleration?",
+      "answer": "The purpose of the 'kick-down' feature in automatic transmissions is to allow the driver to quickly override the automatic gear selection by pressing the accelerator pedal sharply past its fully open position, causing the transmission to shift down to a lower gear. This results in increased engine power and quicker acceleration, which is particularly useful for situations like overtaking. Once the need for rapid acceleration is over, easing the pressure on the accelerator pedal allows the transmission to return to a higher gear."
+    },
+    {
+      "question": "What is the purpose of the different positions on the ignition switch in a vehicle?",
+      "answer": "The different positions on the ignition switch\u2014LOCK, OFF, ACC, ON, and START\u2014serve specific purposes: LOCK secures the steering wheel and allows key removal; OFF turns off the engine and accessories while freeing the steering wheel; ACC supplies power to accessory fixtures; ON powers the ignition system; and START activates the starter motor to begin engine operation, after which the key returns to ON automatically."
+    },
+    {
+      "question": "What is the purpose of the direction indicator switch in a vehicle?",
+      "answer": "The purpose of the direction indicator switch is to signal to other motorists the direction in which you intend to turn, by activating flashing yellow indicator lights at each end of the front and rear of the car."
+    },
+    {
+      "question": "Why is it required to switch on headlights while driving from 7.00 pm to 7.00 am or during reduced daylight?",
+      "answer": "Switching on headlights during these times is required to make your vehicle more visible to other motorists, thereby warning other road users of your presence and any impending danger, which enhances overall road safety."
+    },
+    {
+      "question": "What is the purpose of the hazard warning switch in a vehicle?",
+      "answer": "The purpose of the hazard warning switch is to turn on all four direction indicator lights simultaneously, serving as warning lights to alert other motorists when your vehicle breaks down or when you are stopped momentarily at the side of the road."
+    },
+    {
+      "question": "What is the purpose of the trip odometer in a vehicle?",
+      "answer": "The purpose of the trip odometer is to allow the driver to reset and record the mileage travelled for a specific trip, making it easier to track distances for individual journeys without affecting the total mileage recorded by the main odometer."
+    },
+    {
+      "question": "What is the purpose of warning lights such as the brake, oil pressure, and battery warning lights in a vehicle?",
+      "answer": "The purpose of warning lights like the brake, oil pressure, and battery warning lights is to alert the driver to potential issues with critical vehicle systems. These lights indicate problems such as low brake fluid, insufficient engine oil pressure, or faults in the battery charging system, allowing the driver to take corrective action to ensure safety and prevent damage to the vehicle."
+    },
+    {
+      "question": "What is the purpose of adjusting the seat, headrest, and seat belt before driving?",
+      "answer": "The purpose of adjusting the seat, headrest, and seat belt before driving is to ensure proper posture, maximize comfort and control, and enhance safety by reducing the risk of injury in the event of a collision."
+    },
+    {
+      "question": "Why is it necessary to check a vehicle's blind spots before changing lanes, overtaking, or turning?",
+      "answer": "It is necessary to check a vehicle's blind spots before changing lanes, overtaking, or turning because these areas cannot be seen using the mirrors alone. Failing to check blind spots can result in missing other vehicles or obstacles, increasing the risk of accidents. Turning your head to look over your shoulder ensures that the area is clear and helps maintain safety on the road."
+    },
+    {
+      "question": "Why is it required to wear proper attire, such as shoes with soft soles and clothing that does not restrict movement, when driving?",
+      "answer": "Wearing proper attire, including shoes with soft soles and clothing that does not restrict movement, is required when driving to ensure that the driver can operate the vehicle controls safely and efficiently. Shoes with soft soles allow the driver to feel the pedals accurately, while unrestricted clothing and secured hair prevent any hindrance to arm, hand, or leg movements and maintain clear vision, thereby reducing the risk of accidents."
+    },
+    {
+      "question": "Why is it recommended for beginners to use a driving circuit or a quiet area when practising basic driving techniques?",
+      "answer": "Using a driving circuit or a quiet area is recommended for beginners to ensure safety while they practice basic driving techniques, as these environments minimize the risk of accidents and distractions, allowing learners to focus on developing their skills without endangering themselves or others."
+    },
+    {
+      "question": "What is the purpose of maintaining the clutch at the 'biting point' or 'half-clutch' position when starting to move off in a manual car?",
+      "answer": "Maintaining the clutch at the 'biting point' or 'half-clutch' position allows the engine's power to be gradually transmitted to the wheels, preventing the car from stalling and enabling a smooth start. This controlled engagement helps the driver move off safely and smoothly, especially when starting from a stationary position."
+    },
+    {
+      "question": "What is the purpose of looking far ahead at a distance at least three times the speed (in km/h) while driving?",
+      "answer": "The purpose of looking far ahead at a distance at least three times the speed (in km/h) is to give the driver enough time to observe and react to any potential hazards or changes in the road conditions, thereby improving safety and allowing for smoother driving adjustments."
+    },
+    {
+      "question": "Why is it important to depress the brake pedal early and prepare to stop slightly before the targeted stopping position?",
+      "answer": "Depressing the brake pedal early and preparing to stop slightly before the targeted stopping position is important because it allows the driver to adjust for the vehicle's speed and the distance ahead, ensuring a smooth and controlled stop. This practice also provides time to react to unexpected situations, helps avoid abrupt stops that can cause discomfort or accidents, and increases overall safety for the driver and other road users."
+    },
+    {
+      "question": "How does depressing the clutch pedal too early or too late affect vehicle stopping, and why is timing important?",
+      "answer": "Depressing the clutch pedal too late when stopping causes the engine to stall, while depressing it too early results in 'free-wheeling,' which is dangerous, especially at high speeds or when cornering. Proper timing is important to ensure smooth stopping without stalling or losing control, and the clutch should be depressed just before the engine begins to vibrate."
+    },
+    {
+      "question": "What is the purpose of following a specific sequence when changing gears in a vehicle?",
+      "answer": "The purpose of following a specific sequence when changing gears is to ensure smooth transition between gears, prevent damage to the transmission, and maintain control of the vehicle. Proper coordination of the clutch, accelerator, and gear lever helps the vehicle accelerate smoothly and efficiently, while also enhancing safety and prolonging the lifespan of mechanical components."
+    },
+    {
+      "question": "Why is it dangerous for learner drivers to look down at the gear lever, pedals, and feet while changing gears?",
+      "answer": "It is dangerous for learner drivers to look down at the gear lever, pedals, and feet while changing gears because taking their eyes away from the road, even for a short time, increases the risk of missing important road events or hazards, which can lead to accidents."
+    },
+    {
+      "question": "Why is it necessary to change down to a lower gear when the vehicle's speed drops below the speed range of the current gear?",
+      "answer": "It is necessary to change down to a lower gear when the vehicle's speed drops below the speed range of the current gear because the current gear may not provide enough power to maintain the vehicle's movement at lower speeds. Shifting to a lower gear ensures that the engine can deliver adequate torque to keep the vehicle moving smoothly and safely, especially when slowing down or approaching a stop."
+    },
+    {
+      "question": "Why is it necessary to adjust your speed and change gears when approaching changing traffic situations?",
+      "answer": "Adjusting your speed and changing gears is necessary to give yourself sufficient time to perceive, analyze, and react to ever-changing traffic situations. This allows you to make appropriate decisions, such as slowing down for pedestrians or obstacles, and ensures safe and smooth driving by matching your vehicle's speed and gear to the conditions."
+    },
+    {
+      "question": "What is the purpose of gradually reducing brake pressure as a vehicle approaches its destination during a stop from top gear?",
+      "answer": "Gradually reducing brake pressure as a vehicle approaches its destination ensures a smooth and safe stop by preventing abrupt deceleration, reducing the risk of skidding, and allowing better control of the vehicle. This technique also helps distribute braking force more evenly, minimizing wear on the brakes and improving passenger comfort."
+    },
+    {
+      "question": "What is the purpose of using lower gears for engine-braking when driving down a hill?",
+      "answer": "Using lower gears for engine-braking when driving down a hill increases the effectiveness of the engine-brake, helping to control the vehicle's speed during descent. This is especially important on steep slopes, as it provides more effective braking, reduces the likelihood of skidding, and prevents brake-lining fade during prolonged braking."
+    },
+    {
+      "question": "What is the purpose of adjusting speed, gear, and vehicle position when negotiating a bend?",
+      "answer": "The purpose of adjusting speed, gear, and vehicle position when negotiating a bend is to maintain control of the vehicle, ensure safety, and prepare for any changes in the traffic situation ahead. Reducing speed and selecting the appropriate gear before entering the bend allows for better handling, while maintaining a steady speed and proper lane position through the bend helps keep the vehicle stable. Accelerating and shifting to a higher gear after the bend ensures a smooth transition back to normal driving conditions."
+    },
+    {
+      "question": "What is the purpose of releasing the accelerator pedal and changing to a lower gear before negotiating a sharp bend?",
+      "answer": "Releasing the accelerator pedal and changing to a lower gear before negotiating a sharp bend is required to reduce the vehicle's speed and increase engine braking, which enhances control and stability while entering the bend. This preparation allows the driver to safely navigate the curve without relying on the brakes during the turn, reducing the risk of skidding or losing control."
+    },
+    {
+      "question": "What is the purpose of checking mirrors and blind spots before changing lanes?",
+      "answer": "The purpose of checking mirrors and blind spots before changing lanes is to confirm the traffic situation around your vehicle, ensuring it is safe to change lanes without endangering yourself or other road users. This helps prevent accidents caused by vehicles in areas not visible in your mirrors and supports smooth traffic flow."
+    },
+    {
+      "question": "What is the purpose of assigning specific functions to different lanes on roads with two or three lanes?",
+      "answer": "The purpose of assigning specific functions to different lanes\u2014such as using the left lane for normal or slower driving, the center for faster vehicles, and the right lane for overtaking or turning right\u2014is to organize traffic flow, enhance safety, and reduce confusion among drivers. This system helps ensure that vehicles move at appropriate speeds in each lane, minimizes sudden lane changes, and allows for smoother and safer overtaking and turning maneuvers."
+    },
+    {
+      "question": "Why is continuous analysis of situations at traffic junctions required when driving?",
+      "answer": "Continuous analysis at traffic junctions is required because the traffic situation is always changing, and quick, accurate assessment enables drivers to select the correct speed, operate vehicle controls smoothly, and respond appropriately to hazards such as traffic lights, crossing vehicles, oncoming traffic, and pedestrians."
+    },
+    {
+      "question": "Why is it necessary to check for pedestrians and oncoming vehicles before proceeding through a junction?",
+      "answer": "It is necessary to check for pedestrians and oncoming vehicles before proceeding through a junction to ensure the safety of all road users and to prevent accidents. Pedestrians may be crossing the road, and oncoming vehicles may have the right of way or could cross your path, so checking for them helps you make safe and informed driving decisions."
+    },
+    {
+      "question": "Why is it required to keep a safe distance when following behind another vehicle, especially a large vehicle, at junctions?",
+      "answer": "Keeping a safe distance behind another vehicle, particularly a large one, at junctions is required because being too close can obstruct your view of the traffic lights, increasing the risk of inadvertently running a red light or causing a rear-end collision."
+    },
+    {
+      "question": "What is the purpose of signaling early when turning right into a 'shared' lane for turning right and going straight?",
+      "answer": "Signaling early when turning right into a 'shared' lane allows straight-going vehicles from behind to notice your intention and change to an alternate lane if needed, thereby preventing obstruction and improving traffic flow and safety at the junction."
+    },
+    {
+      "question": "Why is it required to always stop before the stop line at a junction?",
+      "answer": "It is required to always stop before the stop line at a junction to ensure the safety of pedestrians by not obstructing the crossing area and to comply with traffic regulations, which help maintain order and prevent accidents at intersections."
+    },
+    {
+      "question": "Why is it required to come to a complete halt for pedestrians at a designated pedestrian crossing before proceeding?",
+      "answer": "It is required to come to a complete halt for pedestrians at a designated pedestrian crossing to ensure their safety, as they have the right of way when the pedestrian crossing lights are green. Stopping allows pedestrians to cross safely without risk from turning vehicles, and proceeding only after they have cleared your path prevents accidents and complies with traffic regulations."
+    },
+    {
+      "question": "Why is it required to give way to vehicles from the right at a cross road in an uncontrolled junction?",
+      "answer": "Giving way to vehicles from the right at a cross road in an uncontrolled junction is required to establish a clear and consistent rule for determining right of way, which helps prevent confusion and reduces the risk of collisions between vehicles approaching the junction from different directions."
+    },
+    {
+      "question": "Why is it required to reduce speed when approaching a roundabout or a turn?",
+      "answer": "Reducing speed when approaching a roundabout or a turn is required to allow the driver sufficient time to assess the traffic situation, choose the correct lane, and react safely to other vehicles or unexpected obstacles. Lower speeds improve vehicle control, reduce stopping distances, and help prevent accidents, especially in areas where vehicles may be merging or crossing paths."
+    },
+    {
+      "question": "Why is it important to check for traffic signs or road markings that forbid overtaking before attempting to overtake?",
+      "answer": "It is important to check for traffic signs or road markings that forbid overtaking before attempting to overtake because these signs and markings indicate areas where overtaking is unsafe or prohibited, such as near intersections, bends, or pedestrian crossings. Ignoring these restrictions can lead to dangerous situations, increase the risk of accidents, and may result in legal penalties."
+    },
+    {
+      "question": "What is the purpose of checking your rear view and wing mirrors before overtaking?",
+      "answer": "The purpose of checking your rear view and wing mirrors before overtaking is to ensure that no other vehicle is attempting to overtake you at the same time, which helps prevent collisions and ensures a safe overtaking maneuver."
+    },
+    {
+      "question": "Why is overtaking prohibited near sharp bends, pedestrian crossings, road junctions, narrow bridges, steep slopes, or when the front view is restricted?",
+      "answer": "Overtaking is prohibited in these situations because they present increased risks due to limited visibility, unpredictable traffic movements, and reduced space, making it difficult to assess safety and react to hazards. These conditions can lead to accidents, so prohibiting overtaking helps ensure the safety of all road users."
+    },
+    {
+      "question": "Why is mastering the 'half-clutch' technique required when moving off on a slope?",
+      "answer": "Mastering the 'half-clutch' technique is required when moving off on a slope because it allows the driver to coordinate the clutch, accelerator, and handbrake to prevent the vehicle from rolling backward. Proper use of the half-clutch helps the vehicle move forward smoothly at the 'biting-point,' but maintaining this position for too long can cause excessive heat and rapid wear of the clutch lining."
+    },
+    {
+      "question": "Why is it important to check the rear and side mirrors before moving off on a slope?",
+      "answer": "Checking the rear and side mirrors before moving off on a slope is important to ensure it is safe to proceed and that there are no obstacles, vehicles, or pedestrians behind or beside the vehicle, which helps prevent accidents and ensures safe maneuvering."
+    },
+    {
+      "question": "Why is it recommended to reverse a vehicle at a very slow speed using the 'connecting-and-disconnecting-clutch' technique?",
+      "answer": "Reversing at a very slow speed using the 'connecting-and-disconnecting-clutch' technique is recommended because it allows the driver to maintain better control over the vehicle, especially given the difficulty in seeing and steering while reversing. This technique helps to prevent the engine power from being continuously transmitted to the drive wheels, enabling smoother and more precise movements, which is crucial for safety and accuracy when maneuvering in reverse."
+    },
+    {
+      "question": "Why is it necessary to turn your body and head to look through the rear windscreen instead of relying solely on the rear view mirror when reversing?",
+      "answer": "Turning your body and head to look through the rear windscreen is necessary because it provides a wider and more accurate view of the area behind the vehicle, allowing the driver to better judge the position of all four wheels and detect obstacles or hazards that may not be visible in the rear view mirror. This technique enhances safety and precision during reversing maneuvers, especially when parking in limited spaces."
+    },
+    {
+      "question": "What is the purpose of checking both side mirrors and looking through the rear windscreen while reversing into a parking lot?",
+      "answer": "The purpose of checking both side mirrors and looking through the rear windscreen while reversing into a parking lot is to ensure safe clearance between the vehicle and the kerb, as well as to monitor for any passing vehicles or obstacles. This helps prevent collisions and allows the driver to make necessary adjustments for accurate and safe parking."
+    },
+    {
+      "question": "What is the purpose of turning the steering wheel 'full lock' to the left when moving out of a parking lot?",
+      "answer": "Turning the steering wheel 'full lock' to the left allows the vehicle to make a sharp turn and exit the parking lot safely without making a wide turn, which helps avoid obstacles and ensures proper alignment with the road."
+    },
+    {
+      "question": "What is the purpose of returning the steering wheel to its straight-ahead position when the vehicle is almost parallel to the kerb during parallel parking?",
+      "answer": "Returning the steering wheel to its straight-ahead position when the vehicle is almost parallel to the kerb ensures that the vehicle moves in a straight line, allowing for precise alignment with the kerb and preventing the wheels from remaining turned, which could cause the vehicle to hit the kerb or not fit properly within the parking space."
+    },
+    {
+      "question": "What is the purpose of turning the steering wheel 'full lock' to the left when the back bumper is about 0.5 metres past the corner of the kerb during parallel parking?",
+      "answer": "Turning the steering wheel 'full lock' to the left at this point allows the rear of the vehicle to swing into the parking space, aligning the car at an angle that facilitates entry into the lot while avoiding the kerb. This maneuver helps position the vehicle correctly for the next steps of parallel parking, ensuring a smooth and safe entry into the parking space."
+    },
+    {
+      "question": "What is the purpose of turning the steering wheel quickly to the left or right during parallel parking maneuvers?",
+      "answer": "The purpose of turning the steering wheel quickly to the left or right during parallel parking maneuvers is to align the vehicle properly with the kerb and the parking space, ensuring that the vehicle enters the space smoothly without touching the kerb. These quick steering adjustments help position the vehicle parallel to the kerb and centered within the parking lot, facilitating a safe and accurate parking process."
+    },
+    {
+      "question": "How does reaction distance affect the total stopping distance of a vehicle during an emergency stop and why?",
+      "answer": "Reaction distance affects the total stopping distance of a vehicle during an emergency stop because it is the distance the vehicle travels from the moment the driver perceives a hazard and decides to stop, until the brakes are actually applied. This distance adds to the braking distance, which is the distance the vehicle travels after the brakes are applied until it comes to a complete stop. Therefore, the total stopping distance is the sum of the reaction distance and the braking distance, making reaction distance a critical factor in how quickly a vehicle can be brought to a halt in an emergency."
+    },
+    {
+      "question": "Why is it important to keep both hands firmly on the steering wheel and avoid braking too hard during an emergency stop?",
+      "answer": "It is important to keep both hands firmly on the steering wheel during an emergency stop to maintain maximum control over the vehicle's direction, which is crucial for safety. Avoiding braking too hard prevents the wheels from locking, which can cause the vehicle to skid and lose control."
+    },
+    {
+      "question": "Why is it necessary to adjust your vehicle's position before turning into a bend in a narrow course?",
+      "answer": "It is necessary to adjust your vehicle's position before turning into a bend in a narrow course because the rear wheels always take a path closer to the kerb than the front wheels. Without proper adjustment, the rear sides of the vehicle may hit or mount the kerb, especially in sharp bends. Positioning the vehicle correctly before the turn helps prevent this and ensures the vehicle stays safely on course."
+    },
+    {
+      "question": "Why is it important to keep your speed low and visualize the path before passing through a narrow course?",
+      "answer": "Keeping your speed low and visualizing the path before passing through a narrow course is important because it allows you to maintain better control of the vehicle, execute turns smoothly, and avoid obstructions with the front or rear wheels. Lower speeds give you more time to react to tight bends, while visualizing the path helps you anticipate the vehicle's movement and navigate the course safely."
+    },
+    {
+      "question": "Why is it important for drivers to make optimal use of their eyes and avoid fixing their gaze on a single object for too long?",
+      "answer": "It is important for drivers to make optimal use of their eyes and avoid fixing their gaze on a single object for too long because eighty percent of information perceived while driving comes through the eyes. Continuously moving the eyes helps drivers remain aware of their environment, interpret and anticipate hazards, and respond effectively to adverse driving conditions, thereby enhancing safety and competence on the road."
+    },
+    {
+      "question": "Why is it important to avoid driving when tired, unwell, or under the influence of alcohol or certain medications?",
+      "answer": "It is important to avoid driving when tired, unwell, or under the influence of alcohol or certain medications because these conditions can impair your concentration, judgement, and reaction time, increasing the risk of rash or careless driving and accidents. Additionally, driving under the influence of alcohol is an offence and can result in legal consequences."
+    },
+    {
+      "question": "How does driving in adverse weather conditions affect a driver's ability to see and be seen, and why are specific precautions required?",
+      "answer": "Driving in adverse weather conditions such as rain, floods, and strong winds reduces visibility and makes it harder for drivers to see and be seen by others. These conditions can also increase stopping distances and make vehicle control more difficult. Therefore, precautions like reducing speed, using headlights, turning on demisters, and stopping safely if visibility is poor are required to ensure safety and prevent accidents."
+    },
+    {
+      "question": "How does driving at higher speeds on wet roads affect vehicle control and why?",
+      "answer": "Driving at higher speeds on wet roads increases the risk of aquaplaning, where a layer of water builds up under the tyres, causing the vehicle to glide on the road surface. This results in a loss of steering control and braking efficiency because the tyres lose contact with the road, making it more difficult to control the vehicle."
+    },
+    {
+      "question": "How does driving through water affect the effectiveness of vehicle brakes and why is it necessary to dry them afterward?",
+      "answer": "Driving through water can make vehicle brakes ineffective because water reduces the friction between the brake components, preventing them from working properly. It is necessary to dry the brakes afterward by pumping the brake pedal repeatedly or gently pressing the brake pedal while accelerating, to restore normal braking action and ensure safe vehicle operation."
+    },
+    {
+      "question": "Why is it required to dip your headlights when you are immediately behind another vehicle?",
+      "answer": "Dipping your headlights when you are immediately behind another vehicle is required because the beam from your headlight can be reflected by the rear view mirror of the car in front, dazzling the driver and impairing their vision, which increases the risk of accidents."
+    },
+    {
+      "question": "Why is it important not to out-drive your normal headlight range when driving at night?",
+      "answer": "It is important not to out-drive your normal headlight range because your stopping distance must always be within the distance you can see clearly with your headlights. If you drive faster than your headlights allow you to see, you may not have enough time to react to hazards or stop safely, increasing the risk of accidents, especially since the average high-beam headlight only illuminates about 100 metres ahead."
+    },
+    {
+      "question": "How does centrifugal force affect a vehicle's path when driving around a bend, and why is reducing speed required?",
+      "answer": "Centrifugal force pushes a vehicle outward from its path when driving around a bend, and the effect increases with higher speed or sharper curves. Reducing speed is required to maintain control and prevent the vehicle from being forced out of its lane, ensuring safe navigation of the curve."
+    },
+    {
+      "question": "How does the transition from urban to rural areas affect traffic conditions and why must drivers remain alert regardless of these changes?",
+      "answer": "As you move from urban to suburban and then to rural areas, traffic typically shifts from being slow and heavy to faster and lighter, with rural areas generally having the lightest traffic. Despite these changes, drivers must remain careful and alert at all times because road situations can change unexpectedly, and maintaining vigilance is essential for safety in any traffic condition."
+    },
+    {
+      "question": "Why is it recommended to select a lower gear before driving up or down a steep hill?",
+      "answer": "Selecting a lower gear before driving up or down a steep hill is recommended because it provides better control and power. When going uphill, a lower gear prevents the vehicle from stalling and makes it easier to climb without having to change gears on the slope, which could cause the vehicle to roll backwards. When going downhill, a lower gear allows the engine to help slow the vehicle (engine braking), reducing reliance on the foot-brake and preventing the brakes from overheating and losing effectiveness."
+    },
+    {
+      "question": "What is the purpose of turning the front wheels outward when parking facing uphill and inward when parking facing downhill on a slope?",
+      "answer": "Turning the front wheels outward when parking facing uphill ensures that if the vehicle rolls backward, the wheels will hit the kerb and stop the vehicle from moving further. Conversely, turning the wheels inward when parking facing downhill ensures that if the vehicle rolls forward, the wheels will again hit the kerb and prevent the vehicle from rolling into traffic or down the slope. This practice helps prevent accidents caused by vehicles sliding on slopes."
+    },
+    {
+      "question": "Why is it important not to tailgate the vehicle in front when driving in traffic?",
+      "answer": "It is important not to tailgate the vehicle in front because following too closely blocks your range of vision, making it harder to observe traffic situations ahead. Additionally, if the vehicle in front stops suddenly, you may not have enough reaction time and distance to brake safely, increasing the risk of an accident."
+    },
+    {
+      "question": "What is the purpose of the 'two-second' rule when following another vehicle?",
+      "answer": "The purpose of the 'two-second' rule is to ensure a safe following distance between your vehicle and the one in front, regardless of speed or vehicle type. By counting 'one-thousand-and-one, one-thousand-and-two' as the vehicle ahead passes a stationary object, you can confirm you are not following too closely, which helps prevent collisions and allows enough time to react to sudden stops."
+    },
+    {
+      "question": "What is the purpose of checking your blind spots and signaling before changing lanes?",
+      "answer": "The purpose of checking your blind spots and signaling before changing lanes is to ensure that there are no vehicles or obstacles in areas not visible through your mirrors, and to inform other road users of your intentions, thereby preventing accidents and ensuring safe lane changes."
+    },
+    {
+      "question": "What is the purpose of planning your route and monitoring traffic information before driving in order to avoid traffic jams?",
+      "answer": "The purpose of planning your route and monitoring traffic information before driving is to help you avoid congested roads and traffic jams, reduce anxiety, and ensure a smoother and more patient driving experience by allowing you to make informed decisions and adjust your journey as needed."
+    },
+    {
+      "question": "Why is it important to keep a safe gap of about 1 meter between yourself and parked vehicles when driving?",
+      "answer": "Keeping a safe gap of about 1 meter between yourself and parked vehicles is important because it allows you to react safely if a driver or passenger suddenly opens a door or if a vehicle pulls out unexpectedly. This distance helps prevent collisions and gives you enough time and space to slow down or stop if necessary."
+    },
+    {
+      "question": "Why is it required to keep a gap of at least 0.5 metres from fixed obstacles and 1.5 metres from moving vehicles when passing them?",
+      "answer": "Keeping a gap of at least 0.5 metres from fixed obstacles and 1.5 metres from moving vehicles is required to ensure safety. The larger gap from moving vehicles accounts for their potential to change position unexpectedly, reducing the risk of collision. The smaller gap from fixed obstacles is sufficient since they do not move, but still provides a safety buffer. These distances help prevent accidents and protect both the driver and other road users."
+    },
+    {
+      "question": "Why is it important to give plenty of room and stop if necessary for aged and handicapped persons when approaching them on the road?",
+      "answer": "It is important to give plenty of room and stop if necessary for aged and handicapped persons because their vision, hearing, and reflexes may be impaired, making them slower to react to traffic situations. This extra caution helps ensure their safety when crossing the road."
+    },
+    {
+      "question": "What is the purpose of Pedestrian Crossing Ahead Markings (PCAMs) when visibility of a zebra crossing is poor?",
+      "answer": "The purpose of Pedestrian Crossing Ahead Markings (PCAMs) is to alert drivers that a zebra crossing is hidden out of sight when visibility is poor, thereby enhancing safety for both pedestrians and drivers."
+    },
+    {
+      "question": "Why is it required to keep a gap of at least 1 metre from pedestrians facing traffic and 1.5 metres from pedestrians turned away from traffic?",
+      "answer": "It is required to keep a gap of at least 1 metre from pedestrians facing traffic and 1.5 metres from pedestrians turned away from traffic to ensure their safety. Pedestrians facing traffic are more aware of oncoming vehicles and can react if necessary, so a smaller gap is sufficient. Pedestrians turned away from traffic may not see approaching vehicles, so a larger gap provides additional safety to prevent accidents."
+    },
+    {
+      "question": "Why is it important to keep a wider gap from a cyclist carrying a pillion rider or heavy load?",
+      "answer": "It is important to keep a wider gap from a cyclist carrying a pillion rider or heavy load because their bicycle may wobble, making their movements unpredictable and increasing the risk of collision if you are too close."
+    },
+    {
+      "question": "Why is it important to signal your intention early when driving near motorcyclists?",
+      "answer": "Signaling your intention early is important when driving near motorcyclists because it helps prevent accidents by giving motorcyclists enough time to react, especially if they are tailgating or in your blind spot. Early signaling reduces the risk of being hit from behind and allows all road users to anticipate your actions, enhancing overall safety."
+    },
+    {
+      "question": "Why is it required to keep a greater following distance when driving behind large vehicles?",
+      "answer": "It is required to keep a greater following distance behind large vehicles because their size and bulk block your view of the road ahead, making it harder to anticipate hazards. Additionally, if you follow too closely, you may not have enough time to react if goods fall off the vehicle or if the large vehicle needs extra space to turn, increasing the risk of a collision."
+    },
+    {
+      "question": "Why are certain vehicles, such as bicycles and construction equipment, prohibited on expressways?",
+      "answer": "Certain vehicles like bicycles, construction equipment, and other slow-moving or specialized vehicles are prohibited on expressways because they cannot match the high speeds required for smooth traffic flow. Their presence could impede traffic, increase the risk of accidents, and require other drivers to react suddenly, which compromises safety on high-speed roads."
+    },
+    {
+      "question": "What is the purpose of keeping a safe following distance and not using the right outermost lane except for overtaking on expressways?",
+      "answer": "The purpose of keeping a safe following distance is to reduce the risk of collisions by allowing enough time to react to sudden stops or changes in traffic. Not using the right outermost lane except for overtaking ensures that the lane remains clear for emergency vehicles and prevents unnecessary congestion or dangerous driving behaviors, such as weaving in and out of traffic."
+    },
+    {
+      "question": "Why is it required to move your vehicle onto the road shoulder and switch on hazard lights in the event of a breakdown on the expressway?",
+      "answer": "Moving your vehicle onto the road shoulder and switching on hazard lights during a breakdown on the expressway is required to keep the main carriageway clear for traffic, reducing the risk of further accidents. The hazard lights alert other drivers to your presence, increasing safety for both your passengers and other road users."
+    },
+    {
+      "question": "Why is it required to place a breakdown sign at least 20 meters behind a vehicle after a breakdown?",
+      "answer": "Placing a breakdown sign at least 20 meters behind a vehicle is required to warn other drivers of the hazard ahead, giving them sufficient time to react and avoid accidents. This precaution helps ensure the safety of both the occupants of the broken-down vehicle and other road users by increasing visibility and alerting approaching traffic to the presence of an obstruction."
+    },
+    {
+      "question": "What is the purpose of turning on hazard lights and moving to the side of the road when a windscreen shatters while driving?",
+      "answer": "Turning on hazard lights and moving to the side of the road when a windscreen shatters is required to alert other drivers to the emergency situation, reduce the risk of further accidents, and allow the driver to safely stop and address the shattered glass without obstructing traffic."
+    },
+    {
+      "question": "Why is it important not to open the radiator tank cap of a hot engine when overheating occurs?",
+      "answer": "It is important not to open the radiator tank cap of a hot engine because steam will gush out, which can cause severe scalding injuries. Waiting until the engine has cooled down ensures it is safe to open the cap and top up with water or coolant."
+    },
+    {
+      "question": "What is the purpose of turning on hazard lights and moving safely to the side of the road during brake failure, loose wheel, or tyre blow-out situations?",
+      "answer": "Turning on hazard lights and moving safely to the side of the road during brake failure, loose wheel, or tyre blow-out situations is required to alert other road users to the emergency and reduce the risk of accidents, while allowing the driver to address the issue in a safe location."
+    },
+    {
+      "question": "How does a blown tyre affect vehicle control, and why is it important to steer against the pull and brake gently in such a situation?",
+      "answer": "A blown tyre causes the vehicle to pull strongly towards the side of the blown tyre, with a greater pull if it is a front wheel. Steering against the pull is important to keep the vehicle on course and prevent loss of control. Braking gently and progressively helps avoid sudden shifts in balance or skidding, allowing the driver to safely stop the vehicle by the side of the road."
+    },
+    {
+      "question": "Under what conditions is it necessary to call the police after a road accident and why?",
+      "answer": "It is necessary to call the police after a road accident when there is an injury involved. This is because the police are required to manage the accident scene, ensure proper documentation, and authorize the movement of vehicles, unless the injured person needs to be taken to a hospital. In accidents without injury, it is not necessary to report to the police unless the parties cannot settle the matter privately."
+    },
+    {
+      "question": "Why is it required to bring a valid provisional driving licence, insurance certificate, final driving theory certificate, and test fee receipt on the day of the driving test?",
+      "answer": "Bringing these documents is required to verify your eligibility to take the driving test, ensure the vehicle is properly insured, confirm you have passed the necessary theory requirements, and provide proof of payment for the test, thereby ensuring the test is conducted legally and safely."
+    },
+    {
+      "question": "Why is a limit of 13 or more demerit points required before being allowed to sit for the driving test?",
+      "answer": "A limit of 13 or more demerit points is required to ensure that individuals with a history of frequent traffic offences are not permitted to take the driving test, promoting road safety by preventing potentially unsafe drivers from obtaining a license."
+    },
+    {
+      "question": "Why are learner drivers prohibited from driving in certain recreation parks and public car parks?",
+      "answer": "Learner drivers are prohibited from driving in certain recreation parks and public car parks to ensure the safety of both the learners and the public, as these areas often have high pedestrian activity, complex traffic situations, and may not be suitable for inexperienced drivers. Restricting access helps minimize the risk of accidents and allows learners to practice in safer, more controlled environments."
+    },
+    {
+      "question": "Why are learner drivers not allowed within certain areas during specific times on weekdays and Saturdays?",
+      "answer": "Learner drivers are restricted from certain areas during specific times to minimize traffic congestion and reduce the risk of accidents during peak hours when roads are busiest, ensuring safety for all road users and allowing experienced drivers to navigate these areas more efficiently."
+    },
+    {
+      "question": "Why is it required to check that all vehicle lights, registration plates, and windscreens are clean and functioning before driving?",
+      "answer": "It is required to check that all vehicle lights, registration plates, and windscreens are clean and functioning before driving to ensure safety and legal compliance. Clean and working lights improve visibility and communication with other road users, while clean registration plates ensure the vehicle can be identified. Clean windscreens provide clear visibility for the driver, reducing the risk of accidents. Additionally, driving with faulty lights or unreadable plates is an offence and can result in penalties."
+    },
+    {
+      "question": "What is the purpose of performing weekly checks on your vehicle as described in the text?",
+      "answer": "The purpose of performing weekly checks on your vehicle is to ensure safer, trouble-free, and more pleasurable driving by verifying that essential components such as coolant, cleaning liquid, engine oil, battery terminals, brake fluid, tyre pressure, and necessary tools are all in proper condition."
+    },
+    {
+      "question": "Why is a speed warning device required in pick-ups and panel-vans?",
+      "answer": "A speed warning device is required in pick-ups and panel-vans to alert drivers when they exceed safe speed limits, helping to prevent accidents caused by excessive speed, especially since these vehicles can travel faster when not loaded and may handle differently, increasing the risk of skidding or losing control."
+    },
+    {
+      "question": "What is the purpose of installing speed and red-light cameras at accident-prone locations?",
+      "answer": "The purpose of installing speed and red-light cameras at accident-prone locations is to deter motorists from committing traffic violations, such as speeding and running red lights, thereby reducing the risk of accidents and enhancing road safety."
+    },
+    {
+      "question": "What is the purpose of deploying mobile speed cameras (MSCs) instead of relying solely on fixed speed cameras?",
+      "answer": "The purpose of deploying mobile speed cameras (MSCs) is to provide a more flexible and cost-effective solution for monitoring speeding, allowing authorities to quickly respond to localised and prolonged speeding problems in areas where fixed cameras may not be present. MSCs can be deployed and redeployed faster, acting as a deterrent to errant motorists without compromising other frontline resources."
+    },
+    {
+      "question": "What is the purpose of giving appropriate signals early and cancelling them when not in use while driving?",
+      "answer": "The purpose of giving appropriate signals early is to allow other road users enough time to react and act safely based on your intended actions. Cancelling signals when they are not in use prevents confusion among other drivers, ensuring clear communication and reducing the risk of accidents."
+    },
+    {
+      "question": "Why is it required to move into the correct lane early at road junctions?",
+      "answer": "Moving into the correct lane early at road junctions is required to let other road users know your intended direction of travel, which helps prevent confusion and reduces the risk of accidents."
+    },
+    {
+      "question": "What is the purpose of maintaining a safe following distance from the vehicle in front?",
+      "answer": "The purpose of maintaining a safe following distance from the vehicle in front is to allow enough room to stop safely if the vehicle in front stops suddenly, thereby reducing the risk of accidents."
+    },
+    {
+      "question": "What is the purpose of dipping your headlights when following or facing oncoming vehicles?",
+      "answer": "Dipping your headlights when following other vehicles or facing oncoming vehicles is required to prevent dazzling the drivers of other vehicles, which can reduce their visibility and increase the risk of accidents."
+    },
+    {
+      "question": "Why is it important to indicate that you are sorry when you have caused inconvenience to others while driving?",
+      "answer": "Indicating that you are sorry when you have caused inconvenience to others while driving is important because it helps to soothe the other driver, reduce tension, and promote a more courteous and forgiving driving environment."
+    }
+  ],
+  "model": "gpt-4.1",
+  "chunk_size": 1000,
+  "prompt_style": "long"
+}

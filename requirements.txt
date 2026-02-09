@@ -1,0 +1,11 @@
+tqdm
+pydantic
+PyPDF2
+pymupdf
+python-dotenv
+
+langchain
+langchain-openai
+
+azure-ai-documentintelligence
+azure-core

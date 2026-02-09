@@ -1,0 +1,2447 @@
+{
+  "dataset": [
+    {
+      "question": "Who is the author of the Prima Official Game Guide for Pok\u00e9mon Emerald?",
+      "answer": "Levi Buchanan"
+    },
+    {
+      "question": "Who was the editor of the text?",
+      "answer": "Kate Abbott"
+    },
+    {
+      "question": "What is the ISBN number listed for this book?",
+      "answer": "0-7615-5107-7"
+    },
+    {
+      "question": "Who is thanked from Nintendo in the acknowledgments section?",
+      "answer": "Cammy Budd, Amanda Bowes, Tom Herzog"
+    },
+    {
+      "question": "Which city is listed before Victory Road in the Pok\u00e9mon Emerald guide?",
+      "answer": "Ever Grande City"
+    },
+    {
+      "question": "What is the name of the third main Game Boy Advance Pok\u00e9mon game that follows Ruby and Sapphire?",
+      "answer": "Pok\u00e9mon Emerald"
+    },
+    {
+      "question": "What is the name of the new region introduced in Pok\u00e9mon Emerald that features seven battle arenas?",
+      "answer": "Battle Frontier"
+    },
+    {
+      "question": "Which GameCube game can Pok\u00e9mon Emerald link with to exchange Pok\u00e9mon?",
+      "answer": "Pok\u00e9mon Colosseum"
+    },
+    {
+      "question": "Which device allows you to trade Pok\u00e9mon between Pok\u00e9mon Emerald and Pok\u00e9mon Colosseum?",
+      "answer": "Game Boy Advance Game Link cable"
+    },
+    {
+      "question": "Which HM is required to surf on water in Pok\u00e9mon Emerald?",
+      "answer": "HM03"
+    },
+    {
+      "question": "Where can you obtain the Super Rod in Hoenn?",
+      "answer": "Mossdeep City"
+    },
+    {
+      "question": "Which company is described as Hoenn's biggest manufacturer of Pok\u00e9 Balls?",
+      "answer": "Devon Corporation"
+    },
+    {
+      "question": "Which Pok\u00e9 Ball allows you to catch a Pok\u00e9mon regardless of strength, level, or power?",
+      "answer": "Master Ball"
+    },
+    {
+      "question": "Which Pok\u00e9mon must be traded to evolve into Golem in Pok\u00e9mon Emerald?",
+      "answer": "Graveler"
+    },
+    {
+      "question": "What is required for a high-level Pok\u00e9mon to obey your commands in battle?",
+      "answer": "Gym badges"
+    },
+    {
+      "question": "What is the main benefit of placing a low-level Pok\u00e9mon in the lead position during a battle and then switching it out?",
+      "answer": "It gains experience."
+    },
+    {
+      "question": "What item allows a Pok\u00e9mon to gain experience without participating in battle?",
+      "answer": "Exp. Share"
+    },
+    {
+      "question": "Which item can be equipped to a Pok\u00e9mon to prevent its evolution?",
+      "answer": "Everstone"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Alakazam when traded?",
+      "answer": "Kadabra"
+    },
+    {
+      "question": "Which items can increase a Pok\u00e9mon's Friendship rating when given to it?",
+      "answer": "Iron and Zinc"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Milotic when its Beauty Condition is maxed?",
+      "answer": "Feebas"
+    },
+    {
+      "question": "Which Pok\u00e9mon is obtained when Nincada evolves at level 20 with an extra Pok\u00e9 Ball and space in the party?",
+      "answer": "Shedinja"
+    },
+    {
+      "question": "Which group do Pok\u00e9mon that cannot produce Eggs belong to?",
+      "answer": "Group 0"
+    },
+    {
+      "question": "Which Pok\u00e9mon group does Roselia belong to?",
+      "answer": "Plant-group"
+    },
+    {
+      "question": "Which Pok\u00e9mon appears in both the Water 1 and Fairy egg groups?",
+      "answer": "Azumarill"
+    },
+    {
+      "question": "In Pok\u00e9mon breeding, from which parent does a male baby Pok\u00e9mon inherit its stats?",
+      "answer": "female parent"
+    },
+    {
+      "question": "Which type of move can a Pok\u00e9mon learn from its male parent that it would not normally be able to learn?",
+      "answer": "Egg Move"
+    },
+    {
+      "question": "What determines the moves a baby Pok\u00e9mon can inherit through breeding?",
+      "answer": "Parent Pok\u00e9mon's known moves"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, what is the term for the first Pok\u00e9mon on your team that enters the field in battle?",
+      "answer": "lead Pok\u00e9mon"
+    },
+    {
+      "question": "Which command allows you to switch Pok\u00e9mon during a battle?",
+      "answer": "Pok\u00e9mon"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, what is the minimum number of Pok\u00e9mon a player must send out in a 2-on-2 battle?",
+      "answer": "Two"
+    },
+    {
+      "question": "Which HM move is given as an example of affecting both opponent Pok\u00e9mon in 2-on-2 battles?",
+      "answer": "Surf"
+    },
+    {
+      "question": "Which type of Pok\u00e9mon is weak against Electric-type moves?",
+      "answer": "Water-type"
+    },
+    {
+      "question": "Which type combination negates the typical weakness of Grass-type Pok\u00e9mon to Fire-type moves?",
+      "answer": "Grass/Water"
+    },
+    {
+      "question": "Which Pok\u00e9mon type is immune to Psychic-type moves?",
+      "answer": "Dark"
+    },
+    {
+      "question": "What message appears when a move is not very effective in Pok\u00e9mon battles?",
+      "answer": "It's not very effective."
+    },
+    {
+      "question": "Which item is used to cure the Burned status in Pok\u00e9mon?",
+      "answer": "Burn Heal"
+    },
+    {
+      "question": "Which item can cure both Paralysis and Poison in Pok\u00e9mon games?",
+      "answer": "Full Heal"
+    },
+    {
+      "question": "Which item raises a Pok\u00e9mon's base Attack stat?",
+      "answer": "Protein"
+    },
+    {
+      "question": "Which HM allows a Pok\u00e9mon to travel across water in Hoenn?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "In which town does the player's adventure begin in the Hoenn region?",
+      "answer": "Littleroot Town"
+    },
+    {
+      "question": "Who gives you the HM01 (Cut) in Rustboro City?",
+      "answer": "Cutter"
+    },
+    {
+      "question": "Who gives you HM06 (Rock Smash) in Mauville City?",
+      "answer": "the house to the right of the Pok\u00e9mart"
+    },
+    {
+      "question": "Who is the boss of Team Magma that you must defeat to rescue the Meteorite?",
+      "answer": "Maxie"
+    },
+    {
+      "question": "Who gives the player the Devon Scope on Route 120?",
+      "answer": "Steven"
+    },
+    {
+      "question": "Who gives the player HM08 (Dive) in Pok\u00e9mon Emerald?",
+      "answer": "Steven"
+    },
+    {
+      "question": "Which city serves as the starting town in Pok\u00e9mon Emerald?",
+      "answer": "Littleroot Town"
+    },
+    {
+      "question": "Which three starter Pok\u00e9mon can you receive after rescuing Prof. Birch in Littleroot Town?",
+      "answer": "Mudkip, Torchic, Treecko"
+    },
+    {
+      "question": "In Pok\u00e9mon games set in Littleroot Town, if you choose to play as a girl, which house do you live in?",
+      "answer": "The house on the right"
+    },
+    {
+      "question": "Which three starter Pok\u00e9mon can you choose from Prof. Birch's bag in Hoenn?",
+      "answer": "Mudkip, Torchic, Treecko"
+    },
+    {
+      "question": "What item does your mother give you before leaving Littleroot Town in Pok\u00e9mon Emerald?",
+      "answer": "Running Shoes"
+    },
+    {
+      "question": "Which item given by your mother doubles the amount of money won in a battle?",
+      "answer": "Amulet Coin"
+    },
+    {
+      "question": "What is the name of the town near Littleroot Town where you first encounter both a Pok\u00e9mart and a Pok\u00e9mon Center?",
+      "answer": "Oldale Town"
+    },
+    {
+      "question": "What service does the woman at the main counter of a Pok\u00e9mon Center provide for free?",
+      "answer": "Healing Pok\u00e9mon"
+    },
+    {
+      "question": "Who is waiting for a battle in Route 103 in Pok\u00e9mon Emerald?",
+      "answer": "Prof. Birch's child"
+    },
+    {
+      "question": "If you chose Torchic as your starter, which Pok\u00e9mon will Prof. Birch's child use in battle?",
+      "answer": "Mudkip"
+    },
+    {
+      "question": "On which route do you first encounter Trainer battles in Hoenn?",
+      "answer": "Route 102"
+    },
+    {
+      "question": "Which Key Item is used to water berry seedlings in Pok\u00e9mon Emerald?",
+      "answer": "Wailmer Pail"
+    },
+    {
+      "question": "Who runs the Gym in Petalburg City?",
+      "answer": "Your father"
+    },
+    {
+      "question": "Who is the Gym Leader of Petalburg Gym in Pok\u00e9mon?",
+      "answer": "Norman"
+    },
+    {
+      "question": "What badge do you receive after defeating Norman in the Petalburg Gym?",
+      "answer": "Balance Badge"
+    },
+    {
+      "question": "Which HM is required to explore the two small ponds in Petalburg?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "What item do you receive from the women at the flower shop after Petalburg Woods?",
+      "answer": "Wailmer Pail"
+    },
+    {
+      "question": "Who gives you TM09 (Bullet Seed) for free outside the flower shop in Hoenn?",
+      "answer": "A young man"
+    },
+    {
+      "question": "What is the only way to get to Dewford Town after helping the Devon Corporation President in Pok\u00e9mon Emerald?",
+      "answer": "Mr. Briney's boat"
+    },
+    {
+      "question": "Which team does the player first encounter in Petalburg Woods: Team Aqua or Team Magma?",
+      "answer": "Team Aqua"
+    },
+    {
+      "question": "Which of the three starting Pok\u00e9mon in Pok\u00e9mon Ruby, Sapphire, or Emerald cannot use HM01 (Cut)?",
+      "answer": "Torchic, Treecko, Mudkip"
+    },
+    {
+      "question": "Which Pok\u00e9mon can you receive in a trade from a townsperson in Rustboro City?",
+      "answer": "Seedot"
+    },
+    {
+      "question": "Who is the Rustboro Gym Leader in Pok\u00e9mon who grants the Stone Badge?",
+      "answer": "Roxanne"
+    },
+    {
+      "question": "Who is the Gym Leader of Rustboro Gym in Pok\u00e9mon?",
+      "answer": "Roxanne"
+    },
+    {
+      "question": "Who stole the Devon Goods in Rusturf Tunnel?",
+      "answer": "Team Aqua Grunt"
+    },
+    {
+      "question": "What item does the President give you after delivering the Letter to Steven?",
+      "answer": "Exp. Share"
+    },
+    {
+      "question": "Which two fossils can be given to the scientist in Pok\u00e9mon Emerald to restore Pok\u00e9mon?",
+      "answer": "Root Fossil and Claw Fossil"
+    },
+    {
+      "question": "Which item in Route 116 increases the capture rate for Pok\u00e9mon you have already caught?",
+      "answer": "Repeat Ball"
+    },
+    {
+      "question": "Which item does the man searching for his glasses on Route 116 give you after you help him?",
+      "answer": "Blackglasses"
+    },
+    {
+      "question": "Which HM is required to smash boulders in Rusturf Tunnel in Pok\u00e9mon Emerald?",
+      "answer": "HM06 (Rock Smash)"
+    },
+    {
+      "question": "Which Gym is located in Dewford Town?",
+      "answer": "Dewford Gym"
+    },
+    {
+      "question": "Which HM is required to Surf and access the Island Cave in Pok\u00e9mon games?",
+      "answer": "HM03"
+    },
+    {
+      "question": "What item do you receive in Dewford Town that boosts Normal-type moves?",
+      "answer": "Silk Scarf"
+    },
+    {
+      "question": "Who is the Dewford Gym Leader in Pok\u00e9mon Emerald?",
+      "answer": "Brawly"
+    },
+    {
+      "question": "Which HM can be found in Granite Cave?",
+      "answer": "HM05 (Flash)"
+    },
+    {
+      "question": "What item does Steven give you after you deliver the Letter in Granite Cave?",
+      "answer": "TM47 (Steel Wing)"
+    },
+    {
+      "question": "Which city in Hoenn does not have its own Gym but hosts a Battle Tent?",
+      "answer": "Slateport City"
+    },
+    {
+      "question": "Which item sold at the Slateport Market Doll Shop costs \u20b13,000?",
+      "answer": "Azurill Doll"
+    },
+    {
+      "question": "What item does the owner of the Slateport City beach house give you after winning every battle?",
+      "answer": "Soda Pop"
+    },
+    {
+      "question": "Who visits you after you leave the Oceanic Museum in Pok\u00e9mon Emerald?",
+      "answer": "The mysterious stranger chronicling talented Trainers"
+    },
+    {
+      "question": "Which scarf is awarded for a high Beauty rating in Pok\u00e9mon contests?",
+      "answer": "Blue Scarf"
+    },
+    {
+      "question": "Which item must you give to Clamperl and then trade it to evolve into Huntail?",
+      "answer": "Deepseatooth"
+    },
+    {
+      "question": "Who is the owner of the Trick House in Pok\u00e9mon Emerald?",
+      "answer": "Trick Master"
+    },
+    {
+      "question": "Who is the character that challenges players in the Trick House?",
+      "answer": "Trick Master"
+    },
+    {
+      "question": "What item do you receive after defeating Prof. Birch's child on Route 110?",
+      "answer": "Itemfinder"
+    },
+    {
+      "question": "What is the name of the badge obtained from Mauville Gym?",
+      "answer": "Dynamo Badge"
+    },
+    {
+      "question": "Who gives you a free bike in Mauville City?",
+      "answer": "Rydel"
+    },
+    {
+      "question": "Who is the Mauville Gym Leader in Pok\u00e9mon Emerald?",
+      "answer": "Wattson"
+    },
+    {
+      "question": "What TM does Wattson give you after completing the New Mauville quest?",
+      "answer": "TM24 (Thunderbolt)"
+    },
+    {
+      "question": "Which TM at the Game Corner costs 3,500 Coins?",
+      "answer": "TM29 (Psychic)"
+    },
+    {
+      "question": "What is the cost to drop off a Pok\u00e9mon at the Day Care Center on Route 117?",
+      "answer": "\u20b1100"
+    },
+    {
+      "question": "Which TM can be obtained in Verdanturf Town in Pok\u00e9mon Emerald?",
+      "answer": "TM45 (Attract)"
+    },
+    {
+      "question": "Which HM is required to clear the boulders in Rusturf Tunnel?",
+      "answer": "HM06 (Rock Smash)"
+    },
+    {
+      "question": "Which HM is needed to use Surf on Routes 111 and 112 in Pok\u00e9mon Emerald?",
+      "answer": "HM03"
+    },
+    {
+      "question": "Which item do you receive after defeating all members of the Winstrate family on Route 111?",
+      "answer": "Macho Brace"
+    },
+    {
+      "question": "What item is needed to access the desert on Route 111 in Hoenn?",
+      "answer": "Go-Goggles"
+    },
+    {
+      "question": "Which TM allows you to create a Secret Base in Pok\u00e9mon Emerald?",
+      "answer": "TM43 (Secret Power)"
+    },
+    {
+      "question": "Which fossil is located on the right side of the top floor in Mirage Tower?",
+      "answer": "Claw Fossil"
+    },
+    {
+      "question": "Which Pok\u00e9mon can be resurrected from a fossil at the Devon Corporation?",
+      "answer": "Anorith or Lileep"
+    },
+    {
+      "question": "Which HM is required to move the large boulders in Fiery Path?",
+      "answer": "HM04 (Strength)"
+    },
+    {
+      "question": "What item does the owner of the Glass Workshop give you to collect ash in Pok\u00e9mon Emerald?",
+      "answer": "Soot Sack"
+    },
+    {
+      "question": "Who is the famous researcher living in Fallarbor Town?",
+      "answer": "Prof. Cozmo"
+    },
+    {
+      "question": "Who devised the PC Pok\u00e9mon Storage System in the given text?",
+      "answer": "Lanette"
+    },
+    {
+      "question": "In the described three-battle challenge, what is the maximum number of points you can earn in a single judging category?",
+      "answer": "two"
+    },
+    {
+      "question": "Which HM allows the player to use Surf in Pok\u00e9mon Emerald?",
+      "answer": "HM03"
+    },
+    {
+      "question": "Who gives you the Lotad Doll on Route 114 in Hoenn?",
+      "answer": "Lanette"
+    },
+    {
+      "question": "Which Pok\u00e9mon is very common in both Room 2 and Room 3 on land?",
+      "answer": "Golbat"
+    },
+    {
+      "question": "Who do you speak to in Meteor Falls after Team Magma steals the Meteorite?",
+      "answer": "Prof. Cozmo"
+    },
+    {
+      "question": "Which HM is required to access the water lane on Route 115 in Pok\u00e9mon?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "Which item does Team Magma acquire at Mt. Chimney?",
+      "answer": "Meteorite"
+    },
+    {
+      "question": "Who is the Team Magma leader you must battle at the volcano summit in Pok\u00e9mon Emerald?",
+      "answer": "Maxie"
+    },
+    {
+      "question": "Which bike is required to travel back up Jagged Pass in Pok\u00e9mon games?",
+      "answer": "Acro Bike"
+    },
+    {
+      "question": "What item causes the doorway to the Team Magma Hideout to reveal itself?",
+      "answer": "Magma Emblem"
+    },
+    {
+      "question": "Which town in Hoenn has the unique Pok\u00e9mon Herb Shop?",
+      "answer": "Lavaridge Town"
+    },
+    {
+      "question": "Who is the Lavaridge Gym Leader in Pok\u00e9mon Emerald?",
+      "answer": "Flannery"
+    },
+    {
+      "question": "What item allows you to explore the desert area of Route 111?",
+      "answer": "Go-Goggles"
+    },
+    {
+      "question": "Which HM is required to access New Mauville in the game?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "Which item is given by the Fisherman on Route 118 in Pok\u00e9mon Emerald?",
+      "answer": "Good Rod"
+    },
+    {
+      "question": "Which HM is needed to use Fly in this section?",
+      "answer": "HM02"
+    },
+    {
+      "question": "Which HM is used to clear a path through tall grass in Route 119?",
+      "answer": "HM01 (Cut)"
+    },
+    {
+      "question": "What HM do you receive after defeating Prof. Birch's child near Fortree City in Pok\u00e9mon Emerald?",
+      "answer": "HM02 (Fly)"
+    },
+    {
+      "question": "Which Pok\u00e9mon is awarded by the Weather Institute after defeating Team Aqua?",
+      "answer": "Castform"
+    },
+    {
+      "question": "Which Pok\u00e9mon do you receive as a reward at the Weather Institute?",
+      "answer": "Castform"
+    },
+    {
+      "question": "Which item sold at the Fortree City Pok\u00e9Mart has the highest price?",
+      "answer": "Revive"
+    },
+    {
+      "question": "Who is the Gym Leader of Fortree City in Pok\u00e9mon Emerald?",
+      "answer": "Winona"
+    },
+    {
+      "question": "Who is the Fortree Gym Leader in Pok\u00e9mon games?",
+      "answer": "Winona"
+    },
+    {
+      "question": "What item is used to reveal invisible Pok\u00e9mon like Kecleon in Pok\u00e9mon Emerald?",
+      "answer": "Devon Scope"
+    },
+    {
+      "question": "Which TM can be found in the cave after the battle on Route 120?",
+      "answer": "TM11 (Sunny Day)"
+    },
+    {
+      "question": "Which Pok\u00e9mon is listed as 'Very Rare' on land in Route 121?",
+      "answer": "Kecleon"
+    },
+    {
+      "question": "Which HM is needed to access certain areas in the Hoenn Safari Zone?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "What is the entrance fee for the Safari Zone?",
+      "answer": "p500"
+    },
+    {
+      "question": "What item can be offered to a wild Pok\u00e9mon in the Safari Zone to increase the chance of catching it?",
+      "answer": "Pok\u00e9Block"
+    },
+    {
+      "question": "Which city in Hoenn is home to the largest department store in Pok\u00e9mon Emerald?",
+      "answer": "Lilycove City"
+    },
+    {
+      "question": "Which Pok\u00e9mon is listed as rare in water conditions near Lilycove City?",
+      "answer": "Pelipper"
+    },
+    {
+      "question": "What is the price of the Jigglypuff Doll listed in the text?",
+      "answer": "\u20b13,000"
+    },
+    {
+      "question": "Who do you battle at the Lilycove City Department Store upon first entering the city?",
+      "answer": "Prof. Birch's child"
+    },
+    {
+      "question": "What is the most coveted Pok\u00e9 Ball that can be won from the Department Store Lottery in Hoenn?",
+      "answer": "Master Ball"
+    },
+    {
+      "question": "Who gives Pok\u00e9Block-making tips in the house left of the Pok\u00e9mon Contest Hall?",
+      "answer": "Pok\u00e9Block Master"
+    },
+    {
+      "question": "Who helps Pok\u00e9mon forget HM moves in Pok\u00e9mon Emerald?",
+      "answer": "Move Deleter"
+    },
+    {
+      "question": "Which Pok\u00e9mon is considered rare at the mountain summit of Mt. Pyre?",
+      "answer": "Chimecho"
+    },
+    {
+      "question": "What item allows entry to the Team Magma Hideout on the Jagged Pass?",
+      "answer": "Magma Emblem"
+    },
+    {
+      "question": "Which TM does the woman on Route 123 give you if you have a Grass-type Pok\u00e9mon in your party?",
+      "answer": "TM19 (Giga Drain)"
+    },
+    {
+      "question": "What item can be found in the Team Leader's room in Team Aqua's Hideout?",
+      "answer": "Master Ball"
+    },
+    {
+      "question": "Which item does the Treasure Hunter give in exchange for a Blue Shard?",
+      "answer": "Water Stone"
+    },
+    {
+      "question": "Which badge is required to use HM08 (Dive) outside of battle in Mossdeep City?",
+      "answer": "Mind Badge"
+    },
+    {
+      "question": "Who gives you the Super Rod in Mossdeep City?",
+      "answer": "Fisherman next to the Space Center"
+    },
+    {
+      "question": "Who are the Gym Leaders of Mossdeep Gym in Pok\u00e9mon?",
+      "answer": "Liza and Tate"
+    },
+    {
+      "question": "Who teams up with the player to battle Team Magma at the Space Center in Mossdeep City?",
+      "answer": "Steven"
+    },
+    {
+      "question": "Which Hidden Machine does Steven give you at the Space Center?",
+      "answer": "HM08 (Dive)"
+    },
+    {
+      "question": "Which HM is required to use Dive in Pok\u00e9mon on Route 128?",
+      "answer": "HM08"
+    },
+    {
+      "question": "Which Pok\u00e9mon is very common when using an Old Rod in water in Pok\u00e9mon Emerald?",
+      "answer": "Magikarp"
+    },
+    {
+      "question": "Who attempts to awaken Kyogre in the Seafloor Cavern?",
+      "answer": "Archie"
+    },
+    {
+      "question": "Which city in Hoenn is accessible only by diving underwater and hosts the Cave of Origin?",
+      "answer": "Sootopolis City"
+    },
+    {
+      "question": "Who is the Gym Leader of Sootopolis Gym after the crisis in the bay?",
+      "answer": "Juan"
+    },
+    {
+      "question": "Who is the Gym Leader of Sootopolis City in Pok\u00e9mon Emerald after Wallace abdicates?",
+      "answer": "Juan"
+    },
+    {
+      "question": "Which HM is required to access Pacifidlog Town in Pok\u00e9mon Hoenn?",
+      "answer": "HM03 (Surf)"
+    },
+    {
+      "question": "Who in Pacifidlog Town can see Mirage Island?",
+      "answer": "A man on the east end of Pacifidlog"
+    },
+    {
+      "question": "Which TM does the Pok\u00e9mon Fan Club Chairman's sibling give you if your lead Pok\u00e9mon likes you?",
+      "answer": "TM27 (Return)"
+    },
+    {
+      "question": "Which Legendary Pok\u00e9mon can be found at the top of the Sky Pillar in Pok\u00e9mon Emerald?",
+      "answer": "Rayquaza"
+    },
+    {
+      "question": "Which Legendary Pok\u00e9mon is found at the top of the Sky Pillar?",
+      "answer": "Rayquaza"
+    },
+    {
+      "question": "Which Pok\u00e9mon is very common when using the Old Rod or Good Rod on Routes 132, 133, and 134?",
+      "answer": "Tentacool"
+    },
+    {
+      "question": "Which HM is required to use Dive in Pok\u00e9mon Emerald?",
+      "answer": "HM08"
+    },
+    {
+      "question": "Which HM is required to ascend the waterfall to Ever Grande City in Pok\u00e9mon Emerald?",
+      "answer": "HM07 (Waterfall)"
+    },
+    {
+      "question": "Which Pok\u00e9mon is listed as 'Very Common' on both B1F and B2F floors?",
+      "answer": "Golbat"
+    },
+    {
+      "question": "What is the lowest level Pok\u00e9mon used by the Elite Four?",
+      "answer": "Level 46"
+    },
+    {
+      "question": "Who is the first member of the Elite Four mentioned in the text?",
+      "answer": "Sidney"
+    },
+    {
+      "question": "Which type of move is most effective against Sidney's team in the Elite Four?",
+      "answer": "Fighting-type"
+    },
+    {
+      "question": "Which type of move is recommended against Glacia's Elite Four team in Pok\u00e9mon Emerald?",
+      "answer": "Electric"
+    },
+    {
+      "question": "Who is the Champion in the Hoenn Pok\u00e9mon League?",
+      "answer": "Wallace"
+    },
+    {
+      "question": "What is the name of the island where the Battle Frontier is located in Hoenn?",
+      "answer": "Battle Frontier"
+    },
+    {
+      "question": "Which location must you visit to find Groudon after the game restarts in Pok\u00e9mon Emerald?",
+      "answer": "Weather Institute"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, which Pok\u00e9mon causes the severe drought in Hoenn?",
+      "answer": "Groudon"
+    },
+    {
+      "question": "Which Legendary Pok\u00e9mon is found in the Marine Cave in Pok\u00e9mon Emerald?",
+      "answer": "Kyogre"
+    },
+    {
+      "question": "Which Legendary Pok\u00e9mon can be found at the top level of the Sky Pillar?",
+      "answer": "Rayquaza"
+    },
+    {
+      "question": "Which two Pok\u00e9mon can you encounter based on choosing red or blue after the credits roll?",
+      "answer": "Latias and Latios"
+    },
+    {
+      "question": "Which two Legendary Pok\u00e9mon are being tracked using the Pok\u00e9Nav in this text?",
+      "answer": "Latias and Latios"
+    },
+    {
+      "question": "Which three Legendary Rock Pok\u00e9mon can be found in Hoenn by solving the Sealed Chamber mystery?",
+      "answer": "Regice, Regirock, Registeel"
+    },
+    {
+      "question": "What item is required to use Dive to access the Sealed Chamber in Route 134?",
+      "answer": "HM08"
+    },
+    {
+      "question": "Which Legendary Pok\u00e9mon can be found in the Island Cave on Route 105 in Pok\u00e9mon Emerald?",
+      "answer": "Regice"
+    },
+    {
+      "question": "Which HM is required along with HM03 (Surf) to fully explore the Abandoned Ship?",
+      "answer": "HM08 (Dive)"
+    },
+    {
+      "question": "What item is needed to board the S.S. Tidal in Pok\u00e9mon games?",
+      "answer": "S.S. Ticket"
+    },
+    {
+      "question": "Which item found in Shoal Cave can be used to make a Shell Bell?",
+      "answer": "Shoal Salt"
+    },
+    {
+      "question": "Which Pok\u00e9mon is very common on land in the Shoal Cave during low tide?",
+      "answer": "Spheal"
+    },
+    {
+      "question": "Which wild Pok\u00e9mon can only be caught on Mirage Island?",
+      "answer": "Wynaut"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, who replaces Steven as the final challenger in the Elite Four?",
+      "answer": "Wallace"
+    },
+    {
+      "question": "Which Pok\u00e9mon is listed as very common in water in the southern Safari Zone when using the Old Rod or Good Rod?",
+      "answer": "Magikarp"
+    },
+    {
+      "question": "Which Pok\u00e9mon is described as 'Very Rare' when using the Super Rod?",
+      "answer": "Octillery"
+    },
+    {
+      "question": "How many battle areas are there in the Battle Frontier in Hoenn?",
+      "answer": "Seven"
+    },
+    {
+      "question": "How many Symbols can be earned in the Battle Frontier?",
+      "answer": "Seven"
+    },
+    {
+      "question": "Who is the proprietor of the Battle Frontier in Pok\u00e9mon Emerald?",
+      "answer": "Scott"
+    },
+    {
+      "question": "Which item at the Pok\u00e9mart costs \u20b11,200?",
+      "answer": "Ultra Ball"
+    },
+    {
+      "question": "Which item costs 48 BP at the Far-Right Counter: White Herb or Bright Powder?",
+      "answer": "White Herb"
+    },
+    {
+      "question": "Who is the champion you face after 21 consecutive wins in the Battle Factory?",
+      "answer": "Noland"
+    },
+    {
+      "question": "Who challenges you after winning five consecutive tournaments in the Dome?",
+      "answer": "Dome Ace Tucker"
+    },
+    {
+      "question": "Which type of move is recommended against Dome Ace Tucker's Pok\u00e9mon in Pok\u00e9mon Emerald?",
+      "answer": "ELECTRIC"
+    },
+    {
+      "question": "Who is the Frontier Brain of the Battle Pike in Pok\u00e9mon Emerald?",
+      "answer": "Pike Queen Lucy"
+    },
+    {
+      "question": "Who is the Arena Tycoon you battle after your 27th win in the Battle Arena?",
+      "answer": "Greta"
+    },
+    {
+      "question": "Who is the Arena Tycoon in the Battle Palace challenge?",
+      "answer": "Greta"
+    },
+    {
+      "question": "Which type of move is recommended against both Crobat and Lapras in Spenser's team?",
+      "answer": "Electric"
+    },
+    {
+      "question": "Who is the Pyramid King you face after clearing 21 consecutive mazes in the Battle Pyramid?",
+      "answer": "Brandon"
+    },
+    {
+      "question": "Who do you battle after 35 consecutive wins in the Single challenge to earn the Ability Symbol?",
+      "answer": "Salon Maiden Anabel"
+    },
+    {
+      "question": "Which Pok\u00e9mon can only be found in the Battle Frontier's Artisan Cave in Hoenn?",
+      "answer": "Smeargle"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, in which city is the only Pok\u00e9mon Contest Hall located?",
+      "answer": "Lilycove City"
+    },
+    {
+      "question": "What are the five contest types judged in Pok\u00e9mon Emerald?",
+      "answer": "Cool, Beauty, Cute, Smart, Tough"
+    },
+    {
+      "question": "What device is used to create Pok\u00e9Blocks from berries in Pok\u00e9mon Contests?",
+      "answer": "Berry Blender"
+    },
+    {
+      "question": "Which color Pok\u00e9Block increases a Pok\u00e9mon's Beauty?",
+      "answer": "Blue"
+    },
+    {
+      "question": "Which Pok\u00e9Block taste increases a Pok\u00e9mon's Tough Condition?",
+      "answer": "Sour (Yellow)"
+    },
+    {
+      "question": "In a Pok\u00e9mon Contest, what are the two secondary Conditions mentioned for the contest described?",
+      "answer": "Beauty and Tough"
+    },
+    {
+      "question": "What special item is awarded to the winner of a Pok\u00e9mon Contest?",
+      "answer": "Ribbon"
+    },
+    {
+      "question": "Which move tutor move in Pok\u00e9mon Emerald costs 16 Battle Points and restores HP?",
+      "answer": "Softboiled"
+    },
+    {
+      "question": "What is the species name of Grovyle?",
+      "answer": "Wood Gecko Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Treecha?",
+      "answer": "Figliring"
+    },
+    {
+      "question": "What is the ability of the Forest Pok\u00e9mon described in the text?",
+      "answer": "Overgrow"
+    },
+    {
+      "question": "What is the species classification of Torchic in Pok\u00e9mon?",
+      "answer": "Chick Pok\u00e9mon"
+    },
+    {
+      "question": "Which move has the highest base power listed in the text?",
+      "answer": "Double Edge"
+    },
+    {
+      "question": "At what level does Combusken evolve in Pok\u00e9mon Emerald?",
+      "answer": "36"
+    },
+    {
+      "question": "What is the species classification of Blaziken?",
+      "answer": "Blaze Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Pok\u00e9mon number 007 in Pok\u00e9mon Emerald?",
+      "answer": "Mud Fish Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Mudkip as given in the text?",
+      "answer": "Torrent"
+    },
+    {
+      "question": "Which HM move listed is of the Water type?",
+      "answer": "Surf"
+    },
+    {
+      "question": "What is the species classification of Swampert in Pok\u00e9mon Emerald?",
+      "answer": "Mud Fish Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Poochyena?",
+      "answer": "Bite Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon type is listed as strong against in Patolborg Woods routes 101 to 123?",
+      "answer": "Psychic"
+    },
+    {
+      "question": "What is the ability of Mightyena?",
+      "answer": "Intimidate"
+    },
+    {
+      "question": "What is the species classification of Zigzagoon?",
+      "answer": "Tiny Raccoon Pok\u00e9mon"
+    },
+    {
+      "question": "Which move has the type 'Electric' in the provided list?",
+      "answer": "ThunderWave"
+    },
+    {
+      "question": "What is the evolved form of Zigzagoon in Pok\u00e9mon Emerald?",
+      "answer": "Linoone"
+    },
+    {
+      "question": "What is the species classification of Wurmple?",
+      "answer": "Worm Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon species is described as the Cocoon Pok\u00e9mon with the ability Shed Skin and evolves from Wurmple?",
+      "answer": "Silcoon"
+    },
+    {
+      "question": "What is the species classification of Beautifly in Pok\u00e9mon?",
+      "answer": "Butterfly Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Cascoon in Pok\u00e9mon Emerald?",
+      "answer": "Shed Skin"
+    },
+    {
+      "question": "What is the species name of Dustox in Pok\u00e9mon?",
+      "answer": "Poison Moth Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Lotad?",
+      "answer": "Water Weed Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Lombre?",
+      "answer": "Jolly Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon can be caught on Routes 102 and 114 in Pok\u00e9mon Emerald?",
+      "answer": "Lotad"
+    },
+    {
+      "question": "What is the ability of Cascoon in Pok\u00e9mon Emerald?",
+      "answer": "Shed Skin"
+    },
+    {
+      "question": "What is the ability of the Poison Moth Pok\u00e9mon described in the text?",
+      "answer": "Shield Dust"
+    },
+    {
+      "question": "What is the species classification of Lotad?",
+      "answer": "Water Weed Pok\u00e9mon"
+    },
+    {
+      "question": "Which move has the highest base power listed in the text?",
+      "answer": "Hydro Pump"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Jolly Pok\u00e9mon with abilities Swift Swim and Rain Dish?",
+      "answer": "Lombre"
+    },
+    {
+      "question": "What item is required to evolve Lombre into Ludicolo?",
+      "answer": "Water Stone"
+    },
+    {
+      "question": "Which item is required to evolve Seedot?",
+      "answer": "Leaf Stone"
+    },
+    {
+      "question": "Which type is strong against Water according to the text?",
+      "answer": "Grass"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with the ability Chlorophyll in Pok\u00e9mon Emerald?",
+      "answer": "Wily Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability doubles the Pok\u00e9mon's Speed in sunlight?",
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Shiftry when exposed to a Leaf Stone?",
+      "answer": "Nuzleaf"
+    },
+    {
+      "question": "What is the species classification of Taillow in Pok\u00e9mon Emerald?",
+      "answer": "Tinyswallow Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Swellow listed in the text?",
+      "answer": "Guts"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon Wingull?",
+      "answer": "Seagull Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Pelipper in Pok\u00e9mon?",
+      "answer": "Water Bird Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of the Pok\u00e9mon described in the text?",
+      "answer": "Keen Eye"
+    },
+    {
+      "question": "What is the species classification of Ralts in Pok\u00e9mon Emerald?",
+      "answer": "Feeling Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon ability allows it to become the same as the opponent's ability?",
+      "answer": "Trace"
+    },
+    {
+      "question": "What is the species classification of the Pok\u00e9mon described as the Emotion Pok\u00e9mon?",
+      "answer": "Emotion Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with the Pok\u00e9dex number 031 in Pok\u00e9mon Emerald?",
+      "answer": "Embrace Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Kirlia at level 30?",
+      "answer": "Gardevoir"
+    },
+    {
+      "question": "What is the species classification of Rudy in Pok\u00e9mon Sapphire?",
+      "answer": "Pond Skater Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of the Eyeball Pok\u00e9mon in Pok\u00e9mon Emerald Version?",
+      "answer": "Intimidate"
+    },
+    {
+      "question": "What is the species classification of Shroomish?",
+      "answer": "Mushroom Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Solarbeam"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Mushroom Pok\u00e9mon with the ability Effect Spore?",
+      "answer": "Breloom"
+    },
+    {
+      "question": "Which move listed is of the Electric type?",
+      "answer": "Thunderpunch"
+    },
+    {
+      "question": "What is the species classification of Slakoth?",
+      "answer": "Slocker Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Vigoroth in Pok\u00e9mon Emerald?",
+      "answer": "Vital Spirit"
+    },
+    {
+      "question": "Which move has the highest base power listed in the text?",
+      "answer": "Fire Blast"
+    },
+    {
+      "question": "What is the species classification of Slaking in the given text?",
+      "answer": "Lazy Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Abra?",
+      "answer": "Psi Pok\u00e9mon"
+    },
+    {
+      "question": "Which move is listed as TM30 in the text?",
+      "answer": "Shadow Ball"
+    },
+    {
+      "question": "What is the species name of Kadabra in Pok\u00e9mon?",
+      "answer": "Psi Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Alakazam in Pok\u00e9mon Emerald?",
+      "answer": "Psi Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon ability prevents flinching?",
+      "answer": "Inner Focus"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as a Trainee Pok\u00e9mon with Compoundeyes ability?",
+      "answer": "Nincada"
+    },
+    {
+      "question": "Which Pok\u00e9mon game does the Pok\u00e9dex number 134 refer to in Pok\u00e9mon Emerald?",
+      "answer": "Vaporeon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Ninjask?",
+      "answer": "Nincada"
+    },
+    {
+      "question": "What is Shedinja's ability called?",
+      "answer": "Wonder Guard"
+    },
+    {
+      "question": "What is the ability of Whismur in Pok\u00e9mon Emerald?",
+      "answer": "Soundproof"
+    },
+    {
+      "question": "Which location is NOT listed as a place to catch the Pok\u00e9mon: Route 116, Desert Tunnel, Runturf Tunnel, or Petalburg Woods?",
+      "answer": "Petalburg Woods"
+    },
+    {
+      "question": "What is the ability of Loudred in Pok\u00e9mon?",
+      "answer": "Soundproof"
+    },
+    {
+      "question": "Which TM move listed has the highest base power?",
+      "answer": "Blizzard"
+    },
+    {
+      "question": "What is the species name of Exploud?",
+      "answer": "Loud Noise Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability that halves damage from Fire- and Ice-type moves?",
+      "answer": "Thick Fat"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with the ability 'Thick Fat' and 'Guts' in Pok\u00e9mon Emerald?",
+      "answer": "Arm Thrust Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Focus Punch"
+    },
+    {
+      "question": "What is the species name of Goldeen in Pok\u00e9mon?",
+      "answer": "Goldfish Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with Pok\u00e9dex number 051 in Pok\u00e9mon Emerald?",
+      "answer": "Goldfish Pok\u00e9mon"
+    },
+    {
+      "question": "What species is described as the Fish Pok\u00e9mon with a height of 2'11\"?",
+      "answer": "Fish Pok\u00e9mon"
+    },
+    {
+      "question": "What ability does Gyarados have in Pok\u00e9mon Emerald?",
+      "answer": "Intimidate"
+    },
+    {
+      "question": "What is the species name of Azurill?",
+      "answer": "Polka Dot Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability doubles the Pok\u00e9mon's Attack Power in battle?",
+      "answer": "Huge Power"
+    },
+    {
+      "question": "What is the species name of Marill in Pok\u00e9mon Emerald?",
+      "answer": "Aqua Mouse Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Azumarill?",
+      "answer": "Aquarabbit Pok\u00e9mon"
+    },
+    {
+      "question": "Which move is listed as HM03 in the text?",
+      "answer": "Surf"
+    },
+    {
+      "question": "What is the species classification of Geodude in Pok\u00e9mon Emerald?",
+      "answer": "Rock Pok\u00e9mon"
+    },
+    {
+      "question": "Which TM corresponds to the move Earthquake in the provided list?",
+      "answer": "TM26"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Explosion"
+    },
+    {
+      "question": "What is the species name of Golem in the provided text?",
+      "answer": "Megaton Pok\u00e9mon"
+    },
+    {
+      "question": "Which type of move is 'Rock Throw'?",
+      "answer": "Rock"
+    },
+    {
+      "question": "What is the species classification of Nosepass in the Pok\u00e9dex?",
+      "answer": "Compass Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Earthquake"
+    },
+    {
+      "question": "Which item is required to evolve Skitty into Delcatty?",
+      "answer": "Moon Stone"
+    },
+    {
+      "question": "Which Pok\u00e9mon species is described as the Bat Pok\u00e9mon with a height of 2'7\" and found in Granite Cave?",
+      "answer": "Zubat"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Zubat?",
+      "answer": "Golbat"
+    },
+    {
+      "question": "Which move listed has the type 'Poison' and a power of 90?",
+      "answer": "Sludge Bomb"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Crobat when leveled up with high friendship?",
+      "answer": "Golbat"
+    },
+    {
+      "question": "What is the species classification of Tentacool?",
+      "answer": "Jellyfish Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Tentacruel?",
+      "answer": "Jellyfish Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Tentacool?",
+      "answer": "Tentacruel"
+    },
+    {
+      "question": "Which Pok\u00e9mon does not evolve according to the text?",
+      "answer": "Sableye"
+    },
+    {
+      "question": "What is the species name of Sableye in Pok\u00e9mon Emerald?",
+      "answer": "Darkness Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Aron in Pok\u00e9mon?",
+      "answer": "Iron Armor Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power among the Normal-type moves?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Fire Blast"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Iron Armor Pok\u00e9mon with a height of 2'11\" and weight of 265 lbs?",
+      "answer": "Iron Armor Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon Aggron?",
+      "answer": "Iron Armor Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Lairon?",
+      "answer": "Aggron"
+    },
+    {
+      "question": "What is the species classification of Machop in Pok\u00e9mon Emerald?",
+      "answer": "Superpower Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power for the Fighting type?",
+      "answer": "Dynamicpunch"
+    },
+    {
+      "question": "What is the species name of Machoke in the provided text?",
+      "answer": "Superpower Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power among Fighting-type moves?",
+      "answer": "EsovsPunch (150)"
+    },
+    {
+      "question": "What is the species classification of Machamp in the Pok\u00e9mon Emerald Pok\u00e9dex?",
+      "answer": "Superpower Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability does Meditite have in Pok\u00e9mon Colosseum?",
+      "answer": "Pure Power"
+    },
+    {
+      "question": "Which move has the highest base power among the listed Fighting-type moves?",
+      "answer": "Double-Edge"
+    },
+    {
+      "question": "What is the ability of Medicham in Pok\u00e9mon Emerald?",
+      "answer": "Pure Power"
+    },
+    {
+      "question": "What is the species name of Electrike?",
+      "answer": "Lightning Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability gives a Pok\u00e9mon a 30 percent chance of inflicting paralysis on the opponent?",
+      "answer": "Static"
+    },
+    {
+      "question": "What is the species name of Manectric?",
+      "answer": "Discharge Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Electrikx?",
+      "answer": "Lightningrod-Draus"
+    },
+    {
+      "question": "What is the species classification of Plusle?",
+      "answer": "Cheering Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Minun in Pok\u00e9mon Emerald?",
+      "answer": "Cheering Pok\u00e9mon"
+    },
+    {
+      "question": "What is the primary type of Magnemite?",
+      "answer": "Electric"
+    },
+    {
+      "question": "Which move listed has the highest base power among the Electric-type moves?",
+      "answer": "Thunder"
+    },
+    {
+      "question": "What is the primary type of Magneton in Pok\u00e9mon Emerald?",
+      "answer": "Electric"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Ball Pok\u00e9mon with abilities Soundproof and Static?",
+      "answer": "Voltorb"
+    },
+    {
+      "question": "What is the species classification of Gloom in Pok\u00e9mon Emerald?",
+      "answer": "Weed Pok\u00e9mon"
+    },
+    {
+      "question": "Which item is required to evolve Gloom into Bellossom?",
+      "answer": "Sun Stone"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Gloom when exposed to a Leaf Stone?",
+      "answer": "Vileplume"
+    },
+    {
+      "question": "Which item is required to evolve Gloom into Bellossom in Pok\u00e9mon Emerald?",
+      "answer": "Sun Stone"
+    },
+    {
+      "question": "What is the species classification of Doduo?",
+      "answer": "Twin Bird Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Dodrio in Pok\u00e9mon Emerald?",
+      "answer": "Triple Bird Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Thorn Pok\u00e9mon with a height of 1'0\" and weight of 4 lbs?",
+      "answer": "Roselia"
+    },
+    {
+      "question": "Which Pok\u00e9mon must be traded from Pok\u00e9mon Ruby to be caught, according to the text?",
+      "answer": "Roselia"
+    },
+    {
+      "question": "What is the evolved form of Gulpin in Pok\u00e9mon Emerald?",
+      "answer": "Swalot"
+    },
+    {
+      "question": "Which TM move listed has the type 'Electric' and a power of 60?",
+      "answer": "Shock Wave"
+    },
+    {
+      "question": "Which move has the highest base power listed in the text?",
+      "answer": "Explosion"
+    },
+    {
+      "question": "What is Carvanha's ability in Pok\u00e9mon Emerald?",
+      "answer": "Rough Skin"
+    },
+    {
+      "question": "What is the species classification of Sharpedo?",
+      "answer": "Brutal Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Wailord in Pok\u00e9mon Emerald?",
+      "answer": "Float Whale Pok\u00e9mon"
+    },
+    {
+      "question": "On which Pok\u00e9mon routes can Wailmer be found?",
+      "answer": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "What is the species name of Numel in Pok\u00e9mon Emerald?",
+      "answer": "Numb Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Camerupt?",
+      "answer": "Eruption Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Lava Pok\u00e9mon with a height of 2'4\" and weight of 77 lbs?",
+      "answer": "Numel"
+    },
+    {
+      "question": "Which ability prevents Slugma from being frozen?",
+      "answer": "Magma Armor"
+    },
+    {
+      "question": "What is the species name of Magcargo?",
+      "answer": "Lava Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Torkoal in Pok\u00e9mon Emerald?",
+      "answer": "Coal Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described in the text?",
+      "answer": "Sludge Pok\u00e9mon"
+    },
+    {
+      "question": "What is the height of the Pok\u00e9mon described in the text?",
+      "answer": "2'11\""
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Sludge Pok\u00e9mon with abilities Stench and Sticky Hold?",
+      "answer": "Muk"
+    },
+    {
+      "question": "What is the species name of Koffing in Pok\u00e9mon Emerald?",
+      "answer": "Poison Gas Pok\u00e9mon"
+    },
+    {
+      "question": "Which TM allows a Pok\u00e9mon to learn the move 'Thunderbolt'?",
+      "answer": "TM24"
+    },
+    {
+      "question": "What is the ability of Weezing in Pok\u00e9mon Emerald?",
+      "answer": "Levitate"
+    },
+    {
+      "question": "What is the species name of Spoink?",
+      "answer": "Bounce Pok\u00e9mon"
+    },
+    {
+      "question": "Which TM number corresponds to the move Flash in the provided list?",
+      "answer": "HM05"
+    },
+    {
+      "question": "What is the species classification of Grumpig in Pok\u00e9mon?",
+      "answer": "Manipulate Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon species is described as the Mouse Pok\u00e9mon with the ability Sand Veil?",
+      "answer": "Sandshrew"
+    },
+    {
+      "question": "Which TM teaches the move Psychic in Pok\u00e9mon Emerald?",
+      "answer": "TM29"
+    },
+    {
+      "question": "What is the ability of Sandslash in Pok\u00e9mon Emerald?",
+      "answer": "Sand Veil"
+    },
+    {
+      "question": "Which Pok\u00e9mon does not evolve according to the text?",
+      "answer": "Spinda"
+    },
+    {
+      "question": "What is the species name of Skarmory?",
+      "answer": "Armor Bird Pok\u00e9mon"
+    },
+    {
+      "question": "Which route is Scarlmoet found on?",
+      "answer": "Route 113"
+    },
+    {
+      "question": "What is the species name of Trapinch in Pok\u00e9mon?",
+      "answer": "Ant Pit Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Vibrava in Pok\u00e9mon Emerald?",
+      "answer": "Vibration Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Flygon?",
+      "answer": "Mystic Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability prevents this Pok\u00e9mon from being affected by Ground-type moves?",
+      "answer": "Levitate"
+    },
+    {
+      "question": "What is the species classification of Cacnea?",
+      "answer": "Cactus Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Cacturne?",
+      "answer": "Scarecrow Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed is strong against Grass and Electric types?",
+      "answer": "Ground"
+    },
+    {
+      "question": "What is the species name of Swablu in Pok\u00e9mon Emerald?",
+      "answer": "Cotton Bird Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described in the text?",
+      "answer": "Humming Pok\u00e9mon"
+    },
+    {
+      "question": "Which TM number corresponds to Flamethrower in the provided list?",
+      "answer": "TM35"
+    },
+    {
+      "question": "What is the species classification of Zangoose?",
+      "answer": "Cat Ferret Pok\u00e9mon"
+    },
+    {
+      "question": "What is Seviper's ability?",
+      "answer": "Shed Skin"
+    },
+    {
+      "question": "Which TM move listed has the type Poison and power 90?",
+      "answer": "TM36 Sludge Bomb"
+    },
+    {
+      "question": "What is Lunatone's ability in Pok\u00e9mon Emerald?",
+      "answer": "Levitate"
+    },
+    {
+      "question": "What is the species classification of Solrock in Pok\u00e9mon?",
+      "answer": "Meteorite Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Barboach in Pok\u00e9mon Emerald?",
+      "answer": "Whiskers Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of the Pok\u00e9mon described as the 'Whiskers Pok\u00e9mon'?",
+      "answer": "Whiscash"
+    },
+    {
+      "question": "On which routes can this Pok\u00e9mon be caught in Pok\u00e9mon Emerald?",
+      "answer": "Routes 111, 114, and 120"
+    },
+    {
+      "question": "On which routes can Corphish be caught according to the guide?",
+      "answer": "Routes 102 and 117"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves into Crawdaunt?",
+      "answer": "Corphish"
+    },
+    {
+      "question": "Which TM move listed has the type 'Fighting' and a power of 75?",
+      "answer": "TM31 Brick Break"
+    },
+    {
+      "question": "What is the ability of Baltoy and Claydol?",
+      "answer": "Levitate"
+    },
+    {
+      "question": "Which move listed in the text is of the Psychic type and has a power of 0?",
+      "answer": "Prechic"
+    },
+    {
+      "question": "What is the species classification of Lileep in Pok\u00e9mon Emerald?",
+      "answer": "Sea Lily Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Cradily in the given text?",
+      "answer": "Barnacle Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Pok\u00e9mon number 135 in Pok\u00e9mon Emerald?",
+      "answer": "Old Shrimp Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Armaldo that prevents critical hits?",
+      "answer": "Battle Armor"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Anarith?",
+      "answer": "Armaldo"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Balloon Pok\u00e9mon with an HP of 65?",
+      "answer": "Igglybuff"
+    },
+    {
+      "question": "What is the species classification of Jigglypuff?",
+      "answer": "Balloon Pok\u00e9mon"
+    },
+    {
+      "question": "Which HM move listed in the text is of the Normal type with 100 power and 15 PP?",
+      "answer": "Strength"
+    },
+    {
+      "question": "What is the species classification of Wigglytuff?",
+      "answer": "Balloon Pok\u00e9mon"
+    },
+    {
+      "question": "Which ability doubles a Pok\u00e9mon's Speed when it rains?",
+      "answer": "Swift Swim"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Jigglypuff using a Moon Stone?",
+      "answer": "Wigglytuff"
+    },
+    {
+      "question": "What is Milotic's ability in Pok\u00e9mon Emerald?",
+      "answer": "Marvel Scale"
+    },
+    {
+      "question": "What is Castform's ability called?",
+      "answer": "Forecast"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described in the text?",
+      "answer": "Star Shape Pok\u00e9mon"
+    },
+    {
+      "question": "Which item is required to evolve Staryu in Pok\u00e9mon?",
+      "answer": "Water Stone"
+    },
+    {
+      "question": "What is the species name of Starmie?",
+      "answer": "Mysterious Pok\u00e9mon"
+    },
+    {
+      "question": "What is Kecleon's ability in Pok\u00e9mon Emerald?",
+      "answer": "Color Change"
+    },
+    {
+      "question": "Which Pok\u00e9mon is stated to not evolve in the provided text?",
+      "answer": "Kecleon"
+    },
+    {
+      "question": "What is the species classification of Shuppet in Pok\u00e9mon?",
+      "answer": "Puppet Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Banette in Pok\u00e9mon Emerald?",
+      "answer": "Marionette Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Duskull?",
+      "answer": "Requiem Pok\u00e9mon"
+    },
+    {
+      "question": "Which location is mentioned as the place to catch the Pok\u00e9mon in the text?",
+      "answer": "Mt. Pyre"
+    },
+    {
+      "question": "What is the species classification of Dusclops in Pok\u00e9mon Emerald?",
+      "answer": "Beckon Pok\u00e9mon"
+    },
+    {
+      "question": "What is the ability of Tropius that doubles its Speed when it is sunny?",
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Hyper Foam"
+    },
+    {
+      "question": "What is the species classification of Chimecho in Pok\u00e9mon?",
+      "answer": "Wind Chime Pok\u00e9mon"
+    },
+    {
+      "question": "On which route can Absol be caught according to the text?",
+      "answer": "Route 120"
+    },
+    {
+      "question": "What is the species classification of Absol in the provided text?",
+      "answer": "Disaster Pok\u00e9mon"
+    },
+    {
+      "question": "What evolutionary stone is required for Vulpix to evolve in Pok\u00e9mon Emerald?",
+      "answer": "Fire Stone"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Vulpix when exposed to a Fire Stone?",
+      "answer": "Ninetales"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Tiny Mouse Pok\u00e9mon with a height of 1'0\" and weight of 4 lbs?",
+      "answer": "Pichu"
+    },
+    {
+      "question": "What is the species classification of Pikachu?",
+      "answer": "Mouse Pok\u00e9mon"
+    },
+    {
+      "question": "Which Electric-type move has a base power of 90 in Pok\u00e9mon Emerald?",
+      "answer": "Thunderbolt"
+    },
+    {
+      "question": "Which item is required to evolve Pikachu into Raichu?",
+      "answer": "Thunder Stone"
+    },
+    {
+      "question": "What is the species name of Psyduck?",
+      "answer": "Duck Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Golduck?",
+      "answer": "Duck Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Psyduck?",
+      "answer": "Golduck"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Bright Pok\u00e9mon with a height of 2'0\" and weight of 31 lbs?",
+      "answer": "Bright Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Wynaut in Pok\u00e9mon Emerald?",
+      "answer": "Wobbuffet"
+    },
+    {
+      "question": "Which location is listed as where to catch this Pok\u00e9mon?",
+      "answer": "Safari Zone"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Natu in Pok\u00e9mon Emerald?",
+      "answer": "Xatu"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Double Edge"
+    },
+    {
+      "question": "Does Girafarig evolve, yes or no?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the species classification of Phanpy in Pok\u00e9mon Emerald?",
+      "answer": "Long Nose Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Donphan?",
+      "answer": "Armor Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Pinsir in the Pok\u00e9mon Emerald Pok\u00e9dex?",
+      "answer": "Stag Beetle Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Heracross?",
+      "answer": "Single Horn Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Rhyhorn in Pok\u00e9mon Emerald?",
+      "answer": "Spikes Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power for this Pok\u00e9mon?",
+      "answer": "Earthquake"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Rhyhorn?",
+      "answer": "Rhydon"
+    },
+    {
+      "question": "Which move listed is a Bug-type with 120 base power?",
+      "answer": "Megahorn"
+    },
+    {
+      "question": "What is the species classification of Snorunt in Pok\u00e9mon?",
+      "answer": "Snow Hat Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "What is the species name of Spheal in Pok\u00e9mon Emerald?",
+      "answer": "Clap Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power: Blizzard, Surf, or Water Gun?",
+      "answer": "Blizzard"
+    },
+    {
+      "question": "What is the species classification of Sealeo?",
+      "answer": "Boll Roll Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon Walrein?",
+      "answer": "Ice Break Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of Clamperl in Pok\u00e9mon?",
+      "answer": "Bivalve Pok\u00e9mon"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald has the highest base power listed in the text?",
+      "answer": "Sheer Cold"
+    },
+    {
+      "question": "Which item is required to evolve Clamperl into Huntail?",
+      "answer": "Deepseatooth"
+    },
+    {
+      "question": "Which item is needed to evolve Clamperl into Huntail by trading?",
+      "answer": "Deepseatooth"
+    },
+    {
+      "question": "What is the species classification of Relicanth?",
+      "answer": "Longevity Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Coral Pok\u00e9mon?",
+      "answer": "Corsola"
+    },
+    {
+      "question": "Which Pok\u00e9mon does not evolve and can be caught on Route 128 and Ever Grande City in Pok\u00e9mon Emerald?",
+      "answer": "Corsola"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Angler Pok\u00e9mon in the text?",
+      "answer": "Chinchou"
+    },
+    {
+      "question": "Which move listed is of Electric type and has a power of 100?",
+      "answer": "Thunderbolt"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Chinchou at level 27?",
+      "answer": "Lanturn"
+    },
+    {
+      "question": "What is the species classification of Luvdisc?",
+      "answer": "Rendezvous Pok\u00e9mon"
+    },
+    {
+      "question": "Which item is required to evolve a Pok\u00e9mon by trade according to the text?",
+      "answer": "Dragon Scale"
+    },
+    {
+      "question": "What item is required to evolve Seadra into Kingdra in Pok\u00e9mon Emerald?",
+      "answer": "Dragon Scale"
+    },
+    {
+      "question": "Which Pok\u00e9mon evolves from Seadra when traded holding a Dragon Scale?",
+      "answer": "Kingdra"
+    },
+    {
+      "question": "Which move has the highest base power among the listed Water-type moves?",
+      "answer": "Hydro Pump"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with the ability Rock Head in Pok\u00e9mon Emerald?",
+      "answer": "Rock Head Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Shelgon?",
+      "answer": "Endurance Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon with 50 HP and 100 Attack in this text?",
+      "answer": "Drogom"
+    },
+    {
+      "question": "From which Pok\u00e9mon does Shelgon evolve to reach 266 lbs. and gain the Intimidate ability?",
+      "answer": "Salamence"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon Beldum?",
+      "answer": "Iron Ball Pok\u00e9mon"
+    },
+    {
+      "question": "What is the evolved form of Beldum in Pok\u00e9mon Emerald?",
+      "answer": "Metang"
+    },
+    {
+      "question": "What is the species name of Metagross?",
+      "answer": "Iron Leg Pok\u00e9mon"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "What is the species name of Regirock in Pok\u00e9mon Emerald?",
+      "answer": "Rock Peak Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species classification of Regice?",
+      "answer": "Iceberg Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name mentioned in the general info section?",
+      "answer": "Iron Pok\u00e9mon"
+    },
+    {
+      "question": "Which Pok\u00e9mon has the ability Levitate and is known as the Eon Pok\u00e9mon?",
+      "answer": "Latias"
+    },
+    {
+      "question": "Which move has the highest base power listed in the text?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald has the highest base power according to the provided list?",
+      "answer": "Explosion"
+    },
+    {
+      "question": "What is the species classification of Latios in Pok\u00e9mon Emerald?",
+      "answer": "Eon Pok\u00e9mon"
+    },
+    {
+      "question": "What is the species name of the Pok\u00e9mon described as the Sea Basin Pok\u00e9mon with the ability Drizzle?",
+      "answer": "Kyogre"
+    },
+    {
+      "question": "What is the base HP of Kyogre according to the text?",
+      "answer": "50"
+    },
+    {
+      "question": "What is Groudon's ability?",
+      "answer": "Drought"
+    },
+    {
+      "question": "What is the species classification of Rayquaza?",
+      "answer": "Sky High Pok\u00e9mon"
+    },
+    {
+      "question": "Which location is mentioned as a place to catch Pok\u00e9mon in the text?",
+      "answer": "Sky Pillar"
+    },
+    {
+      "question": "What is the species name of Jirachi in Pok\u00e9mon Emerald?",
+      "answer": "Wish Pok\u00e9mon"
+    },
+    {
+      "question": "Who is the DNA Pok\u00e9mon with the ability Pressure in Pok\u00e9mon?",
+      "answer": "Deoxys"
+    },
+    {
+      "question": "Which TM move has the highest base power listed in the text?",
+      "answer": "Mega Kick"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Hyper Beam"
+    },
+    {
+      "question": "Which region's Pok\u00e9mon are noted for having exclusive moves in addition to those from Johto and Kanto?",
+      "answer": "Hoenn"
+    },
+    {
+      "question": "Which move listed has the highest base power?",
+      "answer": "Aeroblast"
+    },
+    {
+      "question": "Which move has a 30% chance of making the opponent flinch?",
+      "answer": "Astonish"
+    },
+    {
+      "question": "Which move has a 10% chance of burning the opponent and a high critical hit ratio?",
+      "answer": "Blaze Kick"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald raises both Attack and Defense by one stage?",
+      "answer": "Bulk Up"
+    },
+    {
+      "question": "Which move changes your type into one of your Attack types?",
+      "answer": "Conversion"
+    },
+    {
+      "question": "Which move has a 50% chance of lowering the opponent's Defense?",
+      "answer": "Crush Claw"
+    },
+    {
+      "question": "Which move always deals 40 points of damage regardless of the Pok\u00e9mon's abilities?",
+      "answer": "Dragon Rage"
+    },
+    {
+      "question": "Which move has its power doubled against Pok\u00e9mon using Dig?",
+      "answer": "Earthquake"
+    },
+    {
+      "question": "Which move always makes the opponent flinch if used on the starting turn?",
+      "answer": "Fake Out"
+    },
+    {
+      "question": "Which move has a 10% chance of burning the opponent and can cure Frozen Pok\u00e9mon?",
+      "answer": "Flamethrower"
+    },
+    {
+      "question": "Which move allows a Pok\u00e9mon to recover half the damage dealt to the opponent?",
+      "answer": "Giga Drain"
+    },
+    {
+      "question": "Which move in the text has a 30% chance of causing the opponent to flinch?",
+      "answer": "Headbutt"
+    },
+    {
+      "question": "Which move knocks out the opponent in one blow but does not affect higher-level Pok\u00e9mon?",
+      "answer": "Horn Drill"
+    },
+    {
+      "question": "Which move has a 10% additional effect of freezing the opponent, Ice Beam or Ice Punch?",
+      "answer": "Both"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald lowers the opponent's Accuracy by one point?",
+      "answer": "Kinesis"
+    },
+    {
+      "question": "Which move has a 50% chance of lowering the opponent's Special Defense?",
+      "answer": "Luster Purge"
+    },
+    {
+      "question": "Which move has a 20% chance to raise the user's Attack by one stage?",
+      "answer": "Meteor Mash"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon recovers 50% of the user's max HP and has effectiveness that changes based on the time of day?",
+      "answer": "Moonlight"
+    },
+    {
+      "question": "Which move inflicts damage equal to the Pok\u00e9mon's level?",
+      "answer": "Night Shade"
+    },
+    {
+      "question": "Which move has a 30% chance of poisoning the opponent: Poison Fang or Poison Sting?",
+      "answer": "Poison Fang"
+    },
+    {
+      "question": "Which Psychic-type move has a 10% chance to reduce the opponent's Special Defense?",
+      "answer": "Psychic"
+    },
+    {
+      "question": "Which move allows a Pok\u00e9mon to recover HP up to half its maximum points?",
+      "answer": "Recover"
+    },
+    {
+      "question": "Which move has a 30% additional chance of causing the opponent to flinch: Rock Slide or Rock Throw?",
+      "answer": "Rock Slide"
+    },
+    {
+      "question": "Which move has a 50% chance of burning the opponent?",
+      "answer": "Sacred Fire"
+    },
+    {
+      "question": "Which move always inflicts damage equal to the user's level?",
+      "answer": "Seismic Toss"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald raises the user's Defense by one point during the first turn and attacks during the second turn?",
+      "answer": "Skull Bash"
+    },
+    {
+      "question": "Which move inflicts twice the damage if the opponent is paralyzed but also cures the paralysis?",
+      "answer": "Smellingsalt"
+    },
+    {
+      "question": "Which move puts the opponent to Sleep?",
+      "answer": "Spore"
+    },
+    {
+      "question": "Which move cuts the opponent's HP to half?",
+      "answer": "Super Fang"
+    },
+    {
+      "question": "Which move recovers 50% of the Pok\u00e9mon's max HP but its effectiveness changes based on the weather?",
+      "answer": "Synthesis"
+    },
+    {
+      "question": "Which TM allows a Pok\u00e9mon to steal an item from a wild Pok\u00e9mon if it has one attached?",
+      "answer": "TM46"
+    },
+    {
+      "question": "Which move causes the user and opponent to switch the items they are holding?",
+      "answer": "Trick"
+    },
+    {
+      "question": "Which HM allows a Pok\u00e9mon to climb waterfalls?",
+      "answer": "HM07"
+    },
+    {
+      "question": "Which location in Pok\u00e9mon Emerald teaches the move Fire Punch?",
+      "answer": "Battle Frontier"
+    },
+    {
+      "question": "In Pok\u00e9mon Emerald, in which city can you find the Move Tutor for Sleep Talk?",
+      "answer": "Fortree City"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Acid"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from any Pok\u00e9mon who appealed before you with the same type of move?",
+      "answer": "Air Cutter"
+    },
+    {
+      "question": "Which move prevents you from receiving any counter appeal points during the current round?",
+      "answer": "Barrier"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from all Pok\u00e9mon who appealed before you?",
+      "answer": "Blast Burn"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Bone Club"
+    },
+    {
+      "question": "Which move doubles your appeal points if the Pok\u00e9mon who appealed before you had less than 30 appeal points?",
+      "answer": "Camouflage"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Constrict"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you in the Tough category?",
+      "answer": "Crunch"
+    },
+    {
+      "question": "Which move makes the Pok\u00e9mon who appeal after your turn nervous?",
+      "answer": "Disable"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Doom Desire"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Dragonbreath"
+    },
+    {
+      "question": "Which move prevents you from receiving counter appeal points once during the current round?",
+      "answer": "Endure"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from any Pok\u00e9mon who appealed before you and used the same type of move?",
+      "answer": "Fake Out"
+    },
+    {
+      "question": "Which move exchanges the number of times you appealed for appeal points, with 1 appeal equaling 10 points, 2 equaling 20 points, 3 equaling 40 points, and 4 equaling 80 points?",
+      "answer": "FinilCote"
+    },
+    {
+      "question": "Which move removes appeal points from Pok\u00e9mon that appealed before you but prevents participation in the next round?",
+      "answer": "Frenzy Plant"
+    },
+    {
+      "question": "Which move subtracts 50 points from any Pok\u00e9mon in Combo Standby who appealed prior to you?",
+      "answer": "Giga Drain"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Hail"
+    },
+    {
+      "question": "Which move cuts in half the number of appeal points the Pok\u00e9mon who appealed before you made?",
+      "answer": "Hora Drill"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from any Pok\u00e9mon who appealed before you and used the same type of move?",
+      "answer": "Ice Beam"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Iron Tail"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Low Kick"
+    },
+    {
+      "question": "Which move causes the Pok\u00e9mon who appeal after your turn to become nervous?",
+      "answer": "Mean Look"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Metal Sound"
+    },
+    {
+      "question": "Which move adds the same number of appeal points as the Pok\u00e9mon who appealed right before you?",
+      "answer": "Mirror Move"
+    },
+    {
+      "question": "Which move's appeal points change depending on the level of the crowd's excitement?",
+      "answer": "Nature Power"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Psychic"
+    },
+    {
+      "question": "Which move prevents you from receiving penalties for two consecutive rounds?",
+      "answer": "Rage"
+    },
+    {
+      "question": "Which move subtracts 42 appeal points from any Pok\u00e9mon who appealed before you with the same type of move?",
+      "answer": "RecoverSmart"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Rock Slide"
+    },
+    {
+      "question": "Which move subtracts 50 points from any Pok\u00e9mon in Combo Standby who appealed prior to you?",
+      "answer": "Scratch"
+    },
+    {
+      "question": "Which move gives triple the appeal points when used as your first appeal?",
+      "answer": "Shock Wave"
+    },
+    {
+      "question": "Which move subtracts 40 appeal points from any Pok\u00e9mon who appealed before you and used the same move type?",
+      "answer": "Slam"
+    },
+    {
+      "question": "Which move subtracts 50 points from any Pok\u00e9mon in Combo Standby who appealed prior to you?",
+      "answer": "Sludge Bomb"
+    },
+    {
+      "question": "Which move triples the number of appeal points if the Pok\u00e9mon before you used the same move type?",
+      "answer": "Sonicboom"
+    },
+    {
+      "question": "Which move in Pok\u00e9mon Emerald's contest subtracts 30 appeal points from the Pok\u00e9mon who appealed before you?",
+      "answer": "Spore"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "String Shot"
+    },
+    {
+      "question": "What is the point value awarded at Level 3 of the crowd's excitement?",
+      "answer": "50"
+    },
+    {
+      "question": "Which move subtracts 30 appeal points from the Pok\u00e9mon who appealed right before you?",
+      "answer": "Sweet Scent"
+    },
+    {
+      "question": "Which move cuts in half the number of appeal points the Pok\u00e9mon who appealed before you made?",
+      "answer": "Thunder Wave"
+    },
+    {
+      "question": "Which move causes appeals to happen in random order in the next round?",
+      "answer": "Twister"
+    },
+    {
+      "question": "Which move causes appeals to happen in random order in the next round?",
+      "answer": "Whirlwind"
+    },
+    {
+      "question": "Which move can be used as a Combo Standby Move for Rest (TM44) in a Pok\u00e9mon Contest?",
+      "answer": "Belly Drum"
+    },
+    {
+      "question": "Which TM allows a Pok\u00e9mon to learn Thunderbolt?",
+      "answer": "TM24"
+    },
+    {
+      "question": "Which move can be learned via TM29 according to the text?",
+      "answer": "Psychic"
+    },
+    {
+      "question": "Which HM allows a Pok\u00e9mon to use the move Surf in Pok\u00e9mon Emerald?",
+      "answer": "HM03"
+    },
+    {
+      "question": "Which HM is used to teach the move Surf in Pok\u00e9mon Emerald?",
+      "answer": "HM03"
+    },
+    {
+      "question": "Which HM is obtained at Wally's House in Petalburg City?",
+      "answer": "Surf"
+    },
+    {
+      "question": "Which TM can be purchased at the Mauville Game Corner for 4,000 coins?",
+      "answer": "TM24 Thunderbolt"
+    },
+    {
+      "question": "Which TM can be obtained in Slateport City?",
+      "answer": "TM46 Thief"
+    },
+    {
+      "question": "Which item raises a Pok\u00e9mon's Special Attack stat and costs \u20b19,100?",
+      "answer": "Calcium"
+    },
+    {
+      "question": "Which item can be used to escape from any battle with a wild Pok\u00e9mon?",
+      "answer": "Fluffy Tail"
+    },
+    {
+      "question": "Which item in Pok\u00e9mon Emerald is used to evolve certain Pok\u00e9mon and is found on Route 119?",
+      "answer": "Leaf Stone"
+    },
+    {
+      "question": "Which item raises your Pok\u00e9mon's Attack stat?",
+      "answer": "Protein"
+    },
+    {
+      "question": "Which special ingredient used for making a Shell Bell is found only in Shoal Cave?",
+      "answer": "Shoal Shell"
+    },
+    {
+      "question": "Which item raises a Pok\u00e9mon's Special Defense stat and can be bought in Lilycove City and Slateport City Open Market?",
+      "answer": "Zinc"
+    },
+    {
+      "question": "Which berry cures paralysis in Pok\u00e9mon in Hoenn?",
+      "answer": "Cheri Berry"
+    },
+    {
+      "question": "Which berry is used to recover HP when a Pok\u00e9mon's HP reaches the halfway mark and is found on Route 120 and Sootopolis City?",
+      "answer": "Lopapa Berry"
+    },
+    {
+      "question": "Which berry can be found on Route 119 and is used for planting and Pok\u00e9Blocks without any special effect?",
+      "answer": "Kelpsy Berry"
+    },
+    {
+      "question": "Which berry raises a Pok\u00e9mon's Attack when its HP is low?",
+      "answer": "Liechi Berry"
+    },
+    {
+      "question": "Which held item in Pok\u00e9mon Emerald doubles the amount of money earned from battles?",
+      "answer": "Amulet Coin"
+    },
+    {
+      "question": "Which item, when held by Clamperl, doubles its Special Defense and is necessary for its evolution through trading?",
+      "answer": "Deepseascale"
+    },
+    {
+      "question": "Which item, when held by Pikachu, doubles the strength of its Special Attacks?",
+      "answer": "Light Ball"
+    },
+    {
+      "question": "Which item increases the strength of Steel-type moves when held by a Pok\u00e9mon?",
+      "answer": "Metal Coat"
+    },
+    {
+      "question": "Which item increases the strength of Bug-type moves when held by a Pok\u00e9mon?",
+      "answer": "Silverpowder"
+    },
+    {
+      "question": "Which item in Pok\u00e9mon Emerald increases the strength of Psychic-type moves when held?",
+      "answer": "Twistedspoon"
+    },
+    {
+      "question": "Who gives you the Devon Scope on Route 120?",
+      "answer": "Steven"
+    },
+    {
+      "question": "Which fossil found in the desert turns into Lileep?",
+      "answer": "Root Fossil"
+    },
+    {
+      "question": "Where can you obtain the Soot Sack in Pok\u00e9mon Emerald?",
+      "answer": "Route 113"
+    },
+    {
+      "question": "Which mail item can be purchased at the Pok\u00e9mart in Slateport City?",
+      "answer": "Harbor Mail"
+    },
+    {
+      "question": "Which Pok\u00e9 Ball allows you to catch a Pok\u00e9mon regardless of strength, level, or power?",
+      "answer": "Master Ball"
+    },
+    {
+      "question": "Which Pok\u00e9 Ball makes it easier to capture Bug- and Water-type Pok\u00e9mon?",
+      "answer": "Net Ball"
+    },
+    {
+      "question": "Which store sells the Azurill Doll for 3,000 BP?",
+      "answer": "Lilycove City Department Store, Slateport City Market"
+    },
+    {
+      "question": "Which shop sells the Camp Chair in Pok\u00e9mon games?",
+      "answer": "Fortree City Shop"
+    },
+    {
+      "question": "Which location sells the Gold Shield for 50,000 in Pok\u00e9mon games?",
+      "answer": "Battle Frontier"
+    },
+    {
+      "question": "Which shop sells the Pretty Plant in Pok\u00e9mon games?",
+      "answer": "Pretty Petal Flower Shop on Route 104"
+    },
+    {
+      "question": "Which city has a Department Store where the Sky Poster can be purchased?",
+      "answer": "Lilycove City"
+    },
+    {
+      "question": "Who is interviewed in the Pok\u00e9mon Pok\u00e9dex Collector's Edition?",
+      "answer": "Junichi Masuda"
+    },
+    {
+      "question": "Which company is Prima Games a division of?",
+      "answer": "Random House, Inc."
+    },
+    {
+      "question": "Who is the author of the Pok\u00e9mon Emerald guide published by Prima Games?",
+      "answer": "Levi Buchanan"
+    }
+  ],
+  "model": "gpt-4.1",
+  "chunk_size": 1000,
+  "prompt_style": "short"
+}
